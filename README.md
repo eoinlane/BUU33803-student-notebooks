@@ -18,6 +18,13 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 |---|---|
 | Your turn: Armand's Pizza, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session2/Session2_Exercise_ArmandsPizza.ipynb) |
 
+## Session 3, Linear regression II: diagnostics and validation
+
+| Notebook | Open |
+|---|---|
+| Your turn: Break the Model, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session3/Session3_Exercise_BreakTheModel.ipynb) |
+| The Central Limit Theorem, live from the room (the in-class demo) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session3/Session3_Demo_CLT_CountriesVisited.ipynb) |
+
 ## Download the data
 
 The notebooks load the data by themselves. To give a dataset to Claude, download it and upload it to
@@ -26,6 +33,7 @@ your chat (on each file's page, use the download button at the top right):
 - [bike_day.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/bike_day.csv), bike sharing, 731 days
 - [advertising.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/advertising.csv), Camac Drinks advertising and sales, 200 towns
 - [armands_pizza.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session2/data/armands_pizza.csv), Armand's Pizza, 10 restaurants
+- [broken_model.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session3/data/broken_model.csv), ad spend and new customers, 120 region-months
 
 ## Data sources
 
@@ -42,3 +50,8 @@ your chat (on each file's page, use the download button at the top right):
   near college campuses (student population in thousands, annual sales in thousands of dollars).
   A textbook teaching example from Anderson, Sweeney & Williams, *Statistics for Business and
   Economics*.
+- `session3/data/broken_model.csv`: a synthetic teaching dataset, generated for this course. Monthly
+  ad spend (thousands of euros) and new customers for 120 region-months, built with diminishing
+  returns and noise that grows with spend, so a straight line looks strong and is wrong.
+- `session3/data/room_data.csv`: a synthetic stand-in for the class's "countries visited" poll, so
+  the Central Limit Theorem demo runs before the poll or without it.
