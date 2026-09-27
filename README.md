@@ -31,6 +31,13 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 |---|---|
 | Your turn again: bike rentals, practice for the Session 2 mechanics | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/Tutorial1_Exercise_BikeSharing.ipynb) |
 
+## Group project: is the UK better or worse off after Brexit?
+
+- [Group Project Brief.pdf](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/brexit/Group%20Project%20Brief.pdf), the question, the required methods, and how it's marked
+- [countries_quarterly_gdp.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/brexit/data/countries_quarterly_gdp.csv), 20 countries, 2010-Q1 to 2026-Q2
+- [countries_annual.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/brexit/data/countries_annual.csv), the same 20 countries, 2005–2024
+- [uk_areas.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/brexit/data/uk_areas.csv), 380 GB counting areas
+
 ## Download the data
 
 The notebooks load the data by themselves. To give a dataset to Claude, download it and upload it to
@@ -65,3 +72,8 @@ your chat (on each file's page, use the download button at the top right):
 - `tutorial1/data/bike_rentals_tutorial1.csv`: the same Capital Bikeshare data as `session1/data/bike_day.csv`
   (see its citation above), trimmed to date, temperature and rentals, with temperature converted from
   the source's normalised 0–1 scale to real °C.
+- `brexit/data/countries_quarterly_gdp.csv`: real GDP (volume index), OECD Quarterly National Accounts.
+- `brexit/data/countries_annual.csv`: GDP, trade, investment, inflation, unemployment and CO2 per head,
+  World Bank, World Development Indicators.
+- `brexit/data/uk_areas.csv`: the 2016 EU referendum result by counting area, Electoral Commission,
+  joined to employment, degree share and pay from ONS via Nomis.
