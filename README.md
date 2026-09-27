@@ -1,36 +1,35 @@
 # BUU33803 Business Analytics: student notebooks
 
-Notebooks and datasets for **BUU33803 Business Analytics** and **BU7852 Foundations of Business
-Analytics** (Trinity Business School, AY 2026-27). Each notebook opens in Google Colab: nothing
-to install, and the data loads automatically.
+Notebooks and datasets for **BUU33803 Business Analytics** (Trinity Business School, AY 2026-27).
+Each notebook opens in Google Colab: nothing to install, and the data loads automatically.
 
 In Colab, use **File → Save a copy in Drive** before you start, so your work is kept.
 
-## BU7852, Session 1: Foundations + working with Claude
-
-| Notebook | Open |
-|---|---|
-| Live demo: exploring Camac Drinks' advertising data with Claude | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session1/Session1_Demo_Advertising.ipynb) |
-
-## BUU33803, Session 1, Introduction + working with Claude
+## Session 1, Introduction + working with Claude
 
 | Notebook | Open |
 |---|---|
 | The Client Challenge (bike sharing), the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session1/Session1_Exercise_BikeSharing.ipynb) |
 | Live demo: exploring Camac Drinks' advertising data with Claude | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session1/Session1_Demo_Advertising.ipynb) |
 
-## BUU33803, Session 2, Linear regression I: building and reading models
+## Session 2, Linear regression I: building and reading models
 
 | Notebook | Open |
 |---|---|
 | Your turn: Armand's Pizza, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session2/Session2_Exercise_ArmandsPizza.ipynb) |
 
-## BUU33803, Session 3, Linear regression II: diagnostics and validation
+## Session 3, Linear regression II: diagnostics and validation
 
 | Notebook | Open |
 |---|---|
 | Your turn: Break the Model, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session3/Session3_Exercise_BreakTheModel.ipynb) |
 | The Central Limit Theorem, live from the room (the in-class demo) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session3/Session3_Demo_CLT_CountriesVisited.ipynb) |
+
+## Tutorial 1, practice: a second regression, a second dataset
+
+| Notebook | Open |
+|---|---|
+| Your turn again: bike rentals, practice for the Session 2 mechanics | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/Tutorial1_Exercise_BikeSharing.ipynb) |
 
 ## Download the data
 
@@ -41,6 +40,7 @@ your chat (on each file's page, use the download button at the top right):
 - [advertising.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/advertising.csv), Camac Drinks advertising and sales, 200 towns
 - [armands_pizza.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session2/data/armands_pizza.csv), Armand's Pizza, 10 restaurants
 - [broken_model.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session3/data/broken_model.csv), ad spend and new customers, 120 region-months
+- [bike_rentals_tutorial1.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/data/bike_rentals_tutorial1.csv), bike rentals vs temperature (°C), 731 days
 
 ## Data sources
 
@@ -62,3 +62,6 @@ your chat (on each file's page, use the download button at the top right):
   returns and noise that grows with spend, so a straight line looks strong and is wrong.
 - `session3/data/room_data.csv`: a synthetic stand-in for the class's "countries visited" poll, so
   the Central Limit Theorem demo runs before the poll or without it.
+- `tutorial1/data/bike_rentals_tutorial1.csv`: the same Capital Bikeshare data as `session1/data/bike_day.csv`
+  (see its citation above), trimmed to date, temperature and rentals, with temperature converted from
+  the source's normalised 0–1 scale to real °C.
