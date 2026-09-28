@@ -1,24 +1,32 @@
 # BUU33803 Business Analytics: student notebooks
 
-Notebooks and datasets for **BUU33803 Business Analytics** (Trinity Business School, AY 2026-27).
-Each notebook opens in Google Colab: nothing to install, and the data loads automatically.
+Notebooks and datasets for **BUU33803 Business Analytics** and **BU7852 Foundations of Business
+Analytics** (Trinity Business School, AY 2026-27). Each notebook opens in Google Colab: nothing
+to install, and the data loads automatically.
 
 In Colab, use **File → Save a copy in Drive** before you start, so your work is kept.
 
-## Session 1, Introduction + working with Claude
+## BU7852, Session 1: Foundations + working with Claude
+
+| Notebook | Open |
+|---|---|
+| The Client Challenge (bike sharing), the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session1/Session1_Exercise_BikeSharing.ipynb) |
+| Live demo: exploring Camac Drinks' advertising data with Claude | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session1/Session1_Demo_Advertising.ipynb) |
+
+## BUU33803, Session 1, Introduction + working with Claude
 
 | Notebook | Open |
 |---|---|
 | The Client Challenge (bike sharing), the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session1/Session1_Exercise_BikeSharing.ipynb) |
 | Live demo: exploring Camac Drinks' advertising data with Claude | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session1/Session1_Demo_Advertising.ipynb) |
 
-## Session 2, Linear regression I: building and reading models
+## BUU33803, Session 2, Linear regression I: building and reading models
 
 | Notebook | Open |
 |---|---|
 | Your turn: Armand's Pizza, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session2/Session2_Exercise_ArmandsPizza.ipynb) |
 
-## Session 3, Linear regression II: diagnostics and validation
+## BUU33803, Session 3, Linear regression II: diagnostics and validation
 
 | Notebook | Open |
 |---|---|
