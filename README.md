@@ -1,31 +1,54 @@
 # BUU33803 Business Analytics: student notebooks
 
-Notebooks and datasets for **BUU33803 Business Analytics** (Trinity Business School, AY 2026-27).
-Each notebook opens in Google Colab: nothing to install, and the data loads automatically.
+Notebooks and datasets for **BUU33803 Business Analytics** and **BU7852 Foundations of Business
+Analytics** (Trinity Business School, AY 2026-27). Each notebook opens in Google Colab: nothing
+to install, and the data loads automatically.
 
 In Colab, use **File → Save a copy in Drive** before you start, so your work is kept.
 
-## Session 1, Introduction + working with Claude
+## BU7852, Session 1: Foundations + working with Claude
+
+| Notebook | Open |
+|---|---|
+| The Client Challenge (bike sharing), the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session1/Session1_Exercise_BikeSharing.ipynb) |
+| Live demo: exploring Camac Drinks' advertising data with Claude | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session1/Session1_Demo_Advertising.ipynb) |
+
+## BU7852, Session 2: Variation, probability & displaying data
+
+| Notebook | Open |
+|---|---|
+| Live demo: the coin-toss experiment, luck vs skill | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session2/Session2_Demo_CoinFlip.ipynb) |
+| Live demo: variation, distributions and box plots | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session2/Session2_Demo_Distributions.ipynb) |
+| Your turn: the QuantInvest portfolio challenge, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session2/Session2_Exercise_Returns.ipynb) |
+
+## BU7852, Session 3: The normal distribution & the Central Limit Theorem
+
+| Notebook | Open |
+|---|---|
+| Live demo: z-scores, the empirical rule, the CLT live from the room | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session3/Session3_Demo_NormalCLT.ipynb) |
+| Your turn: the -18% fund-return challenge, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/bu7852/session3/Session3_Exercise_FundReturn.ipynb) |
+
+## BUU33803, Session 1, Introduction + working with Claude
 
 | Notebook | Open |
 |---|---|
 | The Client Challenge (bike sharing), the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session1/Session1_Exercise_BikeSharing.ipynb) |
 | Live demo: exploring Camac Drinks' advertising data with Claude | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session1/Session1_Demo_Advertising.ipynb) |
 
-## Session 2, Linear regression I: building and reading models
+## BUU33803, Session 2, Linear regression I: building and reading models
 
 | Notebook | Open |
 |---|---|
 | Your turn: Armand's Pizza, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session2/Session2_Exercise_ArmandsPizza.ipynb) |
 
-## Session 3, Linear regression II: diagnostics and validation
+## BUU33803, Session 3, Linear regression II: diagnostics and validation
 
 | Notebook | Open |
 |---|---|
 | Your turn: Break the Model, the in-class exercise | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session3/Session3_Exercise_BreakTheModel.ipynb) |
 | The Central Limit Theorem, live from the room (the in-class demo) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session3/Session3_Demo_CLT_CountriesVisited.ipynb) |
 
-## Session 4, Logistic regression I: classification
+## BUU33803, Session 4, Logistic regression I: classification
 
 | Notebook | Open |
 |---|---|
@@ -33,13 +56,13 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 | Your turn: German credit, build it then interrogate it (the in-class exercise) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session4/Session4_Exercise_GermanCredit.ipynb) |
 | Monty Hall, simulated (optional, self-study) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session4/Session4_Demo_MontyHall.ipynb) |
 
-## Tutorial 1, practice: a second regression, a second dataset
+## BUU33803, Tutorial 1, practice: a second regression, a second dataset
 
 | Notebook | Open |
 |---|---|
 | Your turn again: bike rentals, practice for the Session 2 mechanics | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/Tutorial1_Exercise_BikeSharing.ipynb) |
 
-## Group project: is the UK better or worse off after Brexit?
+## BUU33803, Group project: is the UK better or worse off after Brexit?
 
 - [Group Project Brief.pdf](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/brexit/Group%20Project%20Brief.pdf), the question, the required methods, and how it's marked
 - [countries_quarterly_gdp.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/brexit/data/countries_quarterly_gdp.csv), 20 countries, 2010-Q1 to 2026-Q2
@@ -77,8 +100,10 @@ your chat (on each file's page, use the download button at the top right):
 - `session3/data/broken_model.csv`: a synthetic teaching dataset, generated for this course. Monthly
   ad spend (thousands of euros) and new customers for 120 region-months, built with diminishing
   returns and noise that grows with spend, so a straight line looks strong and is wrong.
-- `session3/data/room_data.csv`: a synthetic stand-in for the class's "countries visited" poll, so
-  the Central Limit Theorem demo runs before the poll or without it.
+- `session3/data/room_data.csv`: a synthetic stand-in for the BUU33803 class's "countries visited"
+  poll, so the Central Limit Theorem demo runs before the poll or without it.
+- `bu7852/session3/data/room_data.csv`: the same stand-in role, for the BU7852 "Countries Visited"
+  poll (Session 3), a separate file since the two cohorts' live polls are independent.
 - `tutorial1/data/bike_rentals_tutorial1.csv`: the same Capital Bikeshare data as `session1/data/bike_day.csv`
   (see its citation above), trimmed to date, temperature and rentals, with temperature converted from
   the source's normalised 0–1 scale to real °C.
