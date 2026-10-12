@@ -33,6 +33,13 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 | Your turn: German credit, build it then interrogate it (the in-class exercise) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session4/Session4_Exercise_GermanCredit.ipynb) |
 | Monty Hall, simulated (optional, self-study) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session4/Session4_Demo_MontyHall.ipynb) |
 
+## Session 5, Logistic regression II: evaluation and fairness
+
+| Notebook | Open |
+|---|---|
+| The threshold is a care decision, the in-class build | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session5/Session5_Medical_Threshold.ipynb) |
+| The fairness audit, your turn | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session5/Session5_Medical_FairnessAudit.ipynb) |
+
 ## Tutorial 1, practice: a second regression, a second dataset
 
 | Notebook | Open |
@@ -58,6 +65,7 @@ your chat (on each file's page, use the download button at the top right):
 - [challenger.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session4/data/challenger.csv), the 23 shuttle flights before Challenger: temperature and O-ring damage
 - [german_credit.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session4/data/german_credit.csv), 1,000 loan applicants, good or bad credit risk
 - [bike_rentals_tutorial1.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/data/bike_rentals_tutorial1.csv), bike rentals vs temperature (°C), 731 days
+- [covid_cdc.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session5/data/covid_cdc.csv), COVID-19 case records, age, sex, race and hospitalisation
 
 ## Data sources
 
@@ -88,6 +96,9 @@ your chat (on each file's page, use the download button at the top right):
   *Journal of the American Statistical Association*.
 - `session4/data/german_credit.csv`: Statlog (German Credit Data), Hofmann, H. (1994), UCI Machine
   Learning Repository: 1,000 loan applicants, 20 attributes, labelled good or bad credit risk.
+- `session5/data/covid_cdc.csv`: a teaching reconstruction of the US CDC COVID-19 case-surveillance
+  data, built to reproduce the real relationships between age, sex, race and hospitalisation in the
+  CDC records. Not real individual patients: the patterns are faithful, the rows are synthetic.
 - `brexit/data/countries_quarterly_gdp.csv`: real GDP (volume index), OECD Quarterly National Accounts.
 - `brexit/data/countries_annual.csv`: GDP, trade, investment, inflation, unemployment and CO2 per head,
   World Bank, World Development Indicators.
