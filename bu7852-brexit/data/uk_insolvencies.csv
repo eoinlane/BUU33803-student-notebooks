@@ -1,0 +1,1135 @@
+sector_code,sector,nation,period,period_type,insolvencies,covid_period
+A,"Agriculture, forestry and fishing",England & Wales,2016,annual,46,0
+A,"Agriculture, forestry and fishing",England & Wales,2017,annual,51,0
+A,"Agriculture, forestry and fishing",England & Wales,2018,annual,48,0
+A,"Agriculture, forestry and fishing",England & Wales,2019,annual,53,0
+A,"Agriculture, forestry and fishing",England & Wales,2020,annual,40,1
+A,"Agriculture, forestry and fishing",England & Wales,2021,annual,38,1
+A,"Agriculture, forestry and fishing",England & Wales,2022,annual,84,0
+A,"Agriculture, forestry and fishing",England & Wales,2023 Q1,quarter,19,0
+A,"Agriculture, forestry and fishing",England & Wales,2023 Q2,quarter,32,0
+A,"Agriculture, forestry and fishing",England & Wales,2023 Q3,quarter,17,0
+A,"Agriculture, forestry and fishing",England & Wales,2023 Q4,quarter,16,0
+A,"Agriculture, forestry and fishing",England & Wales,2024 Q1,quarter,22,0
+A,"Agriculture, forestry and fishing",England & Wales,2024 Q2,quarter,28,0
+A,"Agriculture, forestry and fishing",England & Wales,2024 Q3,quarter,14,0
+A,"Agriculture, forestry and fishing",England & Wales,2024 Q4,quarter,34,0
+A,"Agriculture, forestry and fishing",England & Wales,2025 Q1,quarter,26,0
+A,"Agriculture, forestry and fishing",England & Wales,2025 Q2,quarter,23,0
+A,"Agriculture, forestry and fishing",England & Wales,2025 Q3,quarter,13,0
+A,"Agriculture, forestry and fishing",England & Wales,2025 Q4,quarter,29,0
+A,"Agriculture, forestry and fishing",England & Wales,2026 Q1,quarter,16,0
+A,"Agriculture, forestry and fishing",England & Wales,2026 Q2,quarter,25,0
+A,"Agriculture, forestry and fishing",Great Britain,2016,annual,51,0
+A,"Agriculture, forestry and fishing",Great Britain,2017,annual,56,0
+A,"Agriculture, forestry and fishing",Great Britain,2018,annual,50,0
+A,"Agriculture, forestry and fishing",Great Britain,2019,annual,54,0
+A,"Agriculture, forestry and fishing",Great Britain,2020,annual,43,1
+A,"Agriculture, forestry and fishing",Great Britain,2021,annual,51,1
+A,"Agriculture, forestry and fishing",Great Britain,2022,annual,89,0
+A,"Agriculture, forestry and fishing",Great Britain,2023 Q1,quarter,22,0
+A,"Agriculture, forestry and fishing",Great Britain,2023 Q2,quarter,35,0
+A,"Agriculture, forestry and fishing",Great Britain,2023 Q3,quarter,17,0
+A,"Agriculture, forestry and fishing",Great Britain,2023 Q4,quarter,20,0
+A,"Agriculture, forestry and fishing",Great Britain,2024 Q1,quarter,29,0
+A,"Agriculture, forestry and fishing",Great Britain,2024 Q2,quarter,30,0
+A,"Agriculture, forestry and fishing",Great Britain,2024 Q3,quarter,16,0
+A,"Agriculture, forestry and fishing",Great Britain,2024 Q4,quarter,36,0
+A,"Agriculture, forestry and fishing",Great Britain,2025 Q1,quarter,27,0
+A,"Agriculture, forestry and fishing",Great Britain,2025 Q2,quarter,26,0
+A,"Agriculture, forestry and fishing",Great Britain,2025 Q3,quarter,15,0
+A,"Agriculture, forestry and fishing",Great Britain,2025 Q4,quarter,31,0
+A,"Agriculture, forestry and fishing",Great Britain,2026 Q1,quarter,16,0
+A,"Agriculture, forestry and fishing",Great Britain,2026 Q2,quarter,26,0
+A,"Agriculture, forestry and fishing",Scotland,2016,annual,5,0
+A,"Agriculture, forestry and fishing",Scotland,2017,annual,5,0
+A,"Agriculture, forestry and fishing",Scotland,2018,annual,2,0
+A,"Agriculture, forestry and fishing",Scotland,2019,annual,1,0
+A,"Agriculture, forestry and fishing",Scotland,2020,annual,3,1
+A,"Agriculture, forestry and fishing",Scotland,2021,annual,13,1
+A,"Agriculture, forestry and fishing",Scotland,2022,annual,5,0
+A,"Agriculture, forestry and fishing",Scotland,2023 Q1,quarter,3,0
+A,"Agriculture, forestry and fishing",Scotland,2023 Q2,quarter,3,0
+A,"Agriculture, forestry and fishing",Scotland,2023 Q3,quarter,0,0
+A,"Agriculture, forestry and fishing",Scotland,2023 Q4,quarter,4,0
+A,"Agriculture, forestry and fishing",Scotland,2024 Q1,quarter,7,0
+A,"Agriculture, forestry and fishing",Scotland,2024 Q2,quarter,2,0
+A,"Agriculture, forestry and fishing",Scotland,2024 Q3,quarter,2,0
+A,"Agriculture, forestry and fishing",Scotland,2024 Q4,quarter,2,0
+A,"Agriculture, forestry and fishing",Scotland,2025 Q1,quarter,1,0
+A,"Agriculture, forestry and fishing",Scotland,2025 Q2,quarter,3,0
+A,"Agriculture, forestry and fishing",Scotland,2025 Q3,quarter,2,0
+A,"Agriculture, forestry and fishing",Scotland,2025 Q4,quarter,2,0
+A,"Agriculture, forestry and fishing",Scotland,2026 Q1,quarter,0,0
+A,"Agriculture, forestry and fishing",Scotland,2026 Q2,quarter,1,0
+B,Mining and quarrying,England & Wales,2016,annual,54,0
+B,Mining and quarrying,England & Wales,2017,annual,29,0
+B,Mining and quarrying,England & Wales,2018,annual,29,0
+B,Mining and quarrying,England & Wales,2019,annual,26,0
+B,Mining and quarrying,England & Wales,2020,annual,20,1
+B,Mining and quarrying,England & Wales,2021,annual,38,1
+B,Mining and quarrying,England & Wales,2022,annual,39,0
+B,Mining and quarrying,England & Wales,2023 Q1,quarter,11,0
+B,Mining and quarrying,England & Wales,2023 Q2,quarter,7,0
+B,Mining and quarrying,England & Wales,2023 Q3,quarter,8,0
+B,Mining and quarrying,England & Wales,2023 Q4,quarter,11,0
+B,Mining and quarrying,England & Wales,2024 Q1,quarter,7,0
+B,Mining and quarrying,England & Wales,2024 Q2,quarter,4,0
+B,Mining and quarrying,England & Wales,2024 Q3,quarter,9,0
+B,Mining and quarrying,England & Wales,2024 Q4,quarter,6,0
+B,Mining and quarrying,England & Wales,2025 Q1,quarter,6,0
+B,Mining and quarrying,England & Wales,2025 Q2,quarter,5,0
+B,Mining and quarrying,England & Wales,2025 Q3,quarter,11,0
+B,Mining and quarrying,England & Wales,2025 Q4,quarter,5,0
+B,Mining and quarrying,England & Wales,2026 Q1,quarter,5,0
+B,Mining and quarrying,England & Wales,2026 Q2,quarter,4,0
+B,Mining and quarrying,Great Britain,2016,annual,73,0
+B,Mining and quarrying,Great Britain,2017,annual,41,0
+B,Mining and quarrying,Great Britain,2018,annual,40,0
+B,Mining and quarrying,Great Britain,2019,annual,38,0
+B,Mining and quarrying,Great Britain,2020,annual,29,1
+B,Mining and quarrying,Great Britain,2021,annual,52,1
+B,Mining and quarrying,Great Britain,2022,annual,47,0
+B,Mining and quarrying,Great Britain,2023 Q1,quarter,15,0
+B,Mining and quarrying,Great Britain,2023 Q2,quarter,9,0
+B,Mining and quarrying,Great Britain,2023 Q3,quarter,12,0
+B,Mining and quarrying,Great Britain,2023 Q4,quarter,12,0
+B,Mining and quarrying,Great Britain,2024 Q1,quarter,7,0
+B,Mining and quarrying,Great Britain,2024 Q2,quarter,9,0
+B,Mining and quarrying,Great Britain,2024 Q3,quarter,9,0
+B,Mining and quarrying,Great Britain,2024 Q4,quarter,8,0
+B,Mining and quarrying,Great Britain,2025 Q1,quarter,9,0
+B,Mining and quarrying,Great Britain,2025 Q2,quarter,6,0
+B,Mining and quarrying,Great Britain,2025 Q3,quarter,13,0
+B,Mining and quarrying,Great Britain,2025 Q4,quarter,7,0
+B,Mining and quarrying,Great Britain,2026 Q1,quarter,9,0
+B,Mining and quarrying,Great Britain,2026 Q2,quarter,4,0
+B,Mining and quarrying,Scotland,2016,annual,19,0
+B,Mining and quarrying,Scotland,2017,annual,12,0
+B,Mining and quarrying,Scotland,2018,annual,11,0
+B,Mining and quarrying,Scotland,2019,annual,12,0
+B,Mining and quarrying,Scotland,2020,annual,9,1
+B,Mining and quarrying,Scotland,2021,annual,14,1
+B,Mining and quarrying,Scotland,2022,annual,8,0
+B,Mining and quarrying,Scotland,2023 Q1,quarter,4,0
+B,Mining and quarrying,Scotland,2023 Q2,quarter,2,0
+B,Mining and quarrying,Scotland,2023 Q3,quarter,4,0
+B,Mining and quarrying,Scotland,2023 Q4,quarter,1,0
+B,Mining and quarrying,Scotland,2024 Q1,quarter,0,0
+B,Mining and quarrying,Scotland,2024 Q2,quarter,5,0
+B,Mining and quarrying,Scotland,2024 Q3,quarter,0,0
+B,Mining and quarrying,Scotland,2024 Q4,quarter,2,0
+B,Mining and quarrying,Scotland,2025 Q1,quarter,3,0
+B,Mining and quarrying,Scotland,2025 Q2,quarter,1,0
+B,Mining and quarrying,Scotland,2025 Q3,quarter,2,0
+B,Mining and quarrying,Scotland,2025 Q4,quarter,2,0
+B,Mining and quarrying,Scotland,2026 Q1,quarter,4,0
+B,Mining and quarrying,Scotland,2026 Q2,quarter,0,0
+C,Manufacturing,England & Wales,2016,annual,1347,0
+C,Manufacturing,England & Wales,2017,annual,1290,0
+C,Manufacturing,England & Wales,2018,annual,1361,0
+C,Manufacturing,England & Wales,2019,annual,1483,0
+C,Manufacturing,England & Wales,2020,annual,1170,1
+C,Manufacturing,England & Wales,2021,annual,1018,1
+C,Manufacturing,England & Wales,2022,annual,1687,0
+C,Manufacturing,England & Wales,2023 Q1,quarter,502,0
+C,Manufacturing,England & Wales,2023 Q2,quarter,523,0
+C,Manufacturing,England & Wales,2023 Q3,quarter,456,0
+C,Manufacturing,England & Wales,2023 Q4,quarter,512,0
+C,Manufacturing,England & Wales,2024 Q1,quarter,439,0
+C,Manufacturing,England & Wales,2024 Q2,quarter,551,0
+C,Manufacturing,England & Wales,2024 Q3,quarter,465,0
+C,Manufacturing,England & Wales,2024 Q4,quarter,473,0
+C,Manufacturing,England & Wales,2025 Q1,quarter,506,0
+C,Manufacturing,England & Wales,2025 Q2,quarter,507,0
+C,Manufacturing,England & Wales,2025 Q3,quarter,480,0
+C,Manufacturing,England & Wales,2025 Q4,quarter,451,0
+C,Manufacturing,England & Wales,2026 Q1,quarter,439,0
+C,Manufacturing,England & Wales,2026 Q2,quarter,493,0
+C,Manufacturing,Great Britain,2016,annual,1428,0
+C,Manufacturing,Great Britain,2017,annual,1344,0
+C,Manufacturing,Great Britain,2018,annual,1425,0
+C,Manufacturing,Great Britain,2019,annual,1540,0
+C,Manufacturing,Great Britain,2020,annual,1230,1
+C,Manufacturing,Great Britain,2021,annual,1107,1
+C,Manufacturing,Great Britain,2022,annual,1767,0
+C,Manufacturing,Great Britain,2023 Q1,quarter,529,0
+C,Manufacturing,Great Britain,2023 Q2,quarter,547,0
+C,Manufacturing,Great Britain,2023 Q3,quarter,474,0
+C,Manufacturing,Great Britain,2023 Q4,quarter,539,0
+C,Manufacturing,Great Britain,2024 Q1,quarter,459,0
+C,Manufacturing,Great Britain,2024 Q2,quarter,571,0
+C,Manufacturing,Great Britain,2024 Q3,quarter,490,0
+C,Manufacturing,Great Britain,2024 Q4,quarter,501,0
+C,Manufacturing,Great Britain,2025 Q1,quarter,536,0
+C,Manufacturing,Great Britain,2025 Q2,quarter,532,0
+C,Manufacturing,Great Britain,2025 Q3,quarter,500,0
+C,Manufacturing,Great Britain,2025 Q4,quarter,479,0
+C,Manufacturing,Great Britain,2026 Q1,quarter,464,0
+C,Manufacturing,Great Britain,2026 Q2,quarter,516,0
+C,Manufacturing,Scotland,2016,annual,81,0
+C,Manufacturing,Scotland,2017,annual,54,0
+C,Manufacturing,Scotland,2018,annual,64,0
+C,Manufacturing,Scotland,2019,annual,57,0
+C,Manufacturing,Scotland,2020,annual,60,1
+C,Manufacturing,Scotland,2021,annual,89,1
+C,Manufacturing,Scotland,2022,annual,80,0
+C,Manufacturing,Scotland,2023 Q1,quarter,27,0
+C,Manufacturing,Scotland,2023 Q2,quarter,24,0
+C,Manufacturing,Scotland,2023 Q3,quarter,18,0
+C,Manufacturing,Scotland,2023 Q4,quarter,27,0
+C,Manufacturing,Scotland,2024 Q1,quarter,20,0
+C,Manufacturing,Scotland,2024 Q2,quarter,20,0
+C,Manufacturing,Scotland,2024 Q3,quarter,25,0
+C,Manufacturing,Scotland,2024 Q4,quarter,28,0
+C,Manufacturing,Scotland,2025 Q1,quarter,30,0
+C,Manufacturing,Scotland,2025 Q2,quarter,25,0
+C,Manufacturing,Scotland,2025 Q3,quarter,20,0
+C,Manufacturing,Scotland,2025 Q4,quarter,28,0
+C,Manufacturing,Scotland,2026 Q1,quarter,25,0
+C,Manufacturing,Scotland,2026 Q2,quarter,23,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2016,annual,47,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2017,annual,45,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2018,annual,62,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2019,annual,70,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2020,annual,53,1
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2021,annual,91,1
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2022,annual,93,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2023 Q1,quarter,15,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2023 Q2,quarter,13,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2023 Q3,quarter,9,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2023 Q4,quarter,16,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2024 Q1,quarter,13,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2024 Q2,quarter,16,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2024 Q3,quarter,12,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2024 Q4,quarter,20,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2025 Q1,quarter,19,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2025 Q2,quarter,11,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2025 Q3,quarter,17,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2025 Q4,quarter,11,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2026 Q1,quarter,16,0
+D,"Electricity, gas, steam and air conditioning supply",England & Wales,2026 Q2,quarter,15,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2016,annual,50,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2017,annual,55,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2018,annual,64,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2019,annual,73,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2020,annual,58,1
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2021,annual,95,1
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2022,annual,94,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2023 Q1,quarter,15,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2023 Q2,quarter,14,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2023 Q3,quarter,10,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2023 Q4,quarter,19,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2024 Q1,quarter,14,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2024 Q2,quarter,17,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2024 Q3,quarter,12,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2024 Q4,quarter,21,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2025 Q1,quarter,21,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2025 Q2,quarter,14,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2025 Q3,quarter,17,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2025 Q4,quarter,13,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2026 Q1,quarter,17,0
+D,"Electricity, gas, steam and air conditioning supply",Great Britain,2026 Q2,quarter,15,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2016,annual,3,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2017,annual,10,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2018,annual,2,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2019,annual,3,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2020,annual,5,1
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2021,annual,4,1
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2022,annual,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2023 Q1,quarter,0,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2023 Q2,quarter,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2023 Q3,quarter,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2023 Q4,quarter,3,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2024 Q1,quarter,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2024 Q2,quarter,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2024 Q3,quarter,0,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2024 Q4,quarter,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2025 Q1,quarter,2,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2025 Q2,quarter,3,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2025 Q3,quarter,0,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2025 Q4,quarter,2,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2026 Q1,quarter,1,0
+D,"Electricity, gas, steam and air conditioning supply",Scotland,2026 Q2,quarter,0,0
+E,"Water supply, sewerage and waste management",England & Wales,2016,annual,131,0
+E,"Water supply, sewerage and waste management",England & Wales,2017,annual,132,0
+E,"Water supply, sewerage and waste management",England & Wales,2018,annual,98,0
+E,"Water supply, sewerage and waste management",England & Wales,2019,annual,135,0
+E,"Water supply, sewerage and waste management",England & Wales,2020,annual,75,1
+E,"Water supply, sewerage and waste management",England & Wales,2021,annual,71,1
+E,"Water supply, sewerage and waste management",England & Wales,2022,annual,119,0
+E,"Water supply, sewerage and waste management",England & Wales,2023 Q1,quarter,34,0
+E,"Water supply, sewerage and waste management",England & Wales,2023 Q2,quarter,38,0
+E,"Water supply, sewerage and waste management",England & Wales,2023 Q3,quarter,25,0
+E,"Water supply, sewerage and waste management",England & Wales,2023 Q4,quarter,37,0
+E,"Water supply, sewerage and waste management",England & Wales,2024 Q1,quarter,37,0
+E,"Water supply, sewerage and waste management",England & Wales,2024 Q2,quarter,23,0
+E,"Water supply, sewerage and waste management",England & Wales,2024 Q3,quarter,41,0
+E,"Water supply, sewerage and waste management",England & Wales,2024 Q4,quarter,40,0
+E,"Water supply, sewerage and waste management",England & Wales,2025 Q1,quarter,34,0
+E,"Water supply, sewerage and waste management",England & Wales,2025 Q2,quarter,40,0
+E,"Water supply, sewerage and waste management",England & Wales,2025 Q3,quarter,31,0
+E,"Water supply, sewerage and waste management",England & Wales,2025 Q4,quarter,40,0
+E,"Water supply, sewerage and waste management",England & Wales,2026 Q1,quarter,43,0
+E,"Water supply, sewerage and waste management",England & Wales,2026 Q2,quarter,31,0
+E,"Water supply, sewerage and waste management",Great Britain,2016,annual,136,0
+E,"Water supply, sewerage and waste management",Great Britain,2017,annual,145,0
+E,"Water supply, sewerage and waste management",Great Britain,2018,annual,101,0
+E,"Water supply, sewerage and waste management",Great Britain,2019,annual,140,0
+E,"Water supply, sewerage and waste management",Great Britain,2020,annual,79,1
+E,"Water supply, sewerage and waste management",Great Britain,2021,annual,73,1
+E,"Water supply, sewerage and waste management",Great Britain,2022,annual,125,0
+E,"Water supply, sewerage and waste management",Great Britain,2023 Q1,quarter,35,0
+E,"Water supply, sewerage and waste management",Great Britain,2023 Q2,quarter,40,0
+E,"Water supply, sewerage and waste management",Great Britain,2023 Q3,quarter,26,0
+E,"Water supply, sewerage and waste management",Great Britain,2023 Q4,quarter,37,0
+E,"Water supply, sewerage and waste management",Great Britain,2024 Q1,quarter,39,0
+E,"Water supply, sewerage and waste management",Great Britain,2024 Q2,quarter,25,0
+E,"Water supply, sewerage and waste management",Great Britain,2024 Q3,quarter,45,0
+E,"Water supply, sewerage and waste management",Great Britain,2024 Q4,quarter,42,0
+E,"Water supply, sewerage and waste management",Great Britain,2025 Q1,quarter,37,0
+E,"Water supply, sewerage and waste management",Great Britain,2025 Q2,quarter,43,0
+E,"Water supply, sewerage and waste management",Great Britain,2025 Q3,quarter,33,0
+E,"Water supply, sewerage and waste management",Great Britain,2025 Q4,quarter,41,0
+E,"Water supply, sewerage and waste management",Great Britain,2026 Q1,quarter,43,0
+E,"Water supply, sewerage and waste management",Great Britain,2026 Q2,quarter,31,0
+E,"Water supply, sewerage and waste management",Scotland,2016,annual,5,0
+E,"Water supply, sewerage and waste management",Scotland,2017,annual,13,0
+E,"Water supply, sewerage and waste management",Scotland,2018,annual,3,0
+E,"Water supply, sewerage and waste management",Scotland,2019,annual,5,0
+E,"Water supply, sewerage and waste management",Scotland,2020,annual,4,1
+E,"Water supply, sewerage and waste management",Scotland,2021,annual,2,1
+E,"Water supply, sewerage and waste management",Scotland,2022,annual,6,0
+E,"Water supply, sewerage and waste management",Scotland,2023 Q1,quarter,1,0
+E,"Water supply, sewerage and waste management",Scotland,2023 Q2,quarter,2,0
+E,"Water supply, sewerage and waste management",Scotland,2023 Q3,quarter,1,0
+E,"Water supply, sewerage and waste management",Scotland,2023 Q4,quarter,0,0
+E,"Water supply, sewerage and waste management",Scotland,2024 Q1,quarter,2,0
+E,"Water supply, sewerage and waste management",Scotland,2024 Q2,quarter,2,0
+E,"Water supply, sewerage and waste management",Scotland,2024 Q3,quarter,4,0
+E,"Water supply, sewerage and waste management",Scotland,2024 Q4,quarter,2,0
+E,"Water supply, sewerage and waste management",Scotland,2025 Q1,quarter,3,0
+E,"Water supply, sewerage and waste management",Scotland,2025 Q2,quarter,3,0
+E,"Water supply, sewerage and waste management",Scotland,2025 Q3,quarter,2,0
+E,"Water supply, sewerage and waste management",Scotland,2025 Q4,quarter,1,0
+E,"Water supply, sewerage and waste management",Scotland,2026 Q1,quarter,0,0
+E,"Water supply, sewerage and waste management",Scotland,2026 Q2,quarter,0,0
+F,Construction,England & Wales,2016,annual,2557,0
+F,Construction,England & Wales,2017,annual,2633,0
+F,Construction,England & Wales,2018,annual,2996,0
+F,Construction,England & Wales,2019,annual,3221,0
+F,Construction,England & Wales,2020,annual,2061,1
+F,Construction,England & Wales,2021,annual,2581,1
+F,Construction,England & Wales,2022,annual,4168,0
+F,Construction,England & Wales,2023 Q1,quarter,1069,0
+F,Construction,England & Wales,2023 Q2,quarter,1141,0
+F,Construction,England & Wales,2023 Q3,quarter,1011,0
+F,Construction,England & Wales,2023 Q4,quarter,1168,0
+F,Construction,England & Wales,2024 Q1,quarter,977,0
+F,Construction,England & Wales,2024 Q2,quarter,1163,0
+F,Construction,England & Wales,2024 Q3,quarter,966,0
+F,Construction,England & Wales,2024 Q4,quarter,935,0
+F,Construction,England & Wales,2025 Q1,quarter,1050,0
+F,Construction,England & Wales,2025 Q2,quarter,1038,0
+F,Construction,England & Wales,2025 Q3,quarter,916,0
+F,Construction,England & Wales,2025 Q4,quarter,945,0
+F,Construction,England & Wales,2026 Q1,quarter,932,0
+F,Construction,England & Wales,2026 Q2,quarter,1036,0
+F,Construction,Great Britain,2016,annual,2719,0
+F,Construction,Great Britain,2017,annual,2785,0
+F,Construction,Great Britain,2018,annual,3198,0
+F,Construction,Great Britain,2019,annual,3428,0
+F,Construction,Great Britain,2020,annual,2175,1
+F,Construction,Great Britain,2021,annual,2732,1
+F,Construction,Great Britain,2022,annual,4360,0
+F,Construction,Great Britain,2023 Q1,quarter,1121,0
+F,Construction,Great Britain,2023 Q2,quarter,1195,0
+F,Construction,Great Britain,2023 Q3,quarter,1067,0
+F,Construction,Great Britain,2023 Q4,quarter,1209,0
+F,Construction,Great Britain,2024 Q1,quarter,1029,0
+F,Construction,Great Britain,2024 Q2,quarter,1218,0
+F,Construction,Great Britain,2024 Q3,quarter,1019,0
+F,Construction,Great Britain,2024 Q4,quarter,977,0
+F,Construction,Great Britain,2025 Q1,quarter,1094,0
+F,Construction,Great Britain,2025 Q2,quarter,1103,0
+F,Construction,Great Britain,2025 Q3,quarter,958,0
+F,Construction,Great Britain,2025 Q4,quarter,985,0
+F,Construction,Great Britain,2026 Q1,quarter,976,0
+F,Construction,Great Britain,2026 Q2,quarter,1095,0
+F,Construction,Scotland,2016,annual,162,0
+F,Construction,Scotland,2017,annual,152,0
+F,Construction,Scotland,2018,annual,202,0
+F,Construction,Scotland,2019,annual,207,0
+F,Construction,Scotland,2020,annual,114,1
+F,Construction,Scotland,2021,annual,151,1
+F,Construction,Scotland,2022,annual,192,0
+F,Construction,Scotland,2023 Q1,quarter,52,0
+F,Construction,Scotland,2023 Q2,quarter,54,0
+F,Construction,Scotland,2023 Q3,quarter,56,0
+F,Construction,Scotland,2023 Q4,quarter,41,0
+F,Construction,Scotland,2024 Q1,quarter,52,0
+F,Construction,Scotland,2024 Q2,quarter,55,0
+F,Construction,Scotland,2024 Q3,quarter,53,0
+F,Construction,Scotland,2024 Q4,quarter,42,0
+F,Construction,Scotland,2025 Q1,quarter,44,0
+F,Construction,Scotland,2025 Q2,quarter,65,0
+F,Construction,Scotland,2025 Q3,quarter,42,0
+F,Construction,Scotland,2025 Q4,quarter,40,0
+F,Construction,Scotland,2026 Q1,quarter,44,0
+F,Construction,Scotland,2026 Q2,quarter,59,0
+G,Wholesale and retail trade,England & Wales,2016,annual,2046,0
+G,Wholesale and retail trade,England & Wales,2017,annual,2152,0
+G,Wholesale and retail trade,England & Wales,2018,annual,2351,0
+G,Wholesale and retail trade,England & Wales,2019,annual,2458,0
+G,Wholesale and retail trade,England & Wales,2020,annual,1687,1
+G,Wholesale and retail trade,England & Wales,2021,annual,1722,1
+G,Wholesale and retail trade,England & Wales,2022,annual,3283,0
+G,Wholesale and retail trade,England & Wales,2023 Q1,quarter,959,0
+G,Wholesale and retail trade,England & Wales,2023 Q2,quarter,988,0
+G,Wholesale and retail trade,England & Wales,2023 Q3,quarter,923,0
+G,Wholesale and retail trade,England & Wales,2023 Q4,quarter,1078,0
+G,Wholesale and retail trade,England & Wales,2024 Q1,quarter,845,0
+G,Wholesale and retail trade,England & Wales,2024 Q2,quarter,991,0
+G,Wholesale and retail trade,England & Wales,2024 Q3,quarter,867,0
+G,Wholesale and retail trade,England & Wales,2024 Q4,quarter,875,0
+G,Wholesale and retail trade,England & Wales,2025 Q1,quarter,920,0
+G,Wholesale and retail trade,England & Wales,2025 Q2,quarter,1000,0
+G,Wholesale and retail trade,England & Wales,2025 Q3,quarter,960,0
+G,Wholesale and retail trade,England & Wales,2025 Q4,quarter,856,0
+G,Wholesale and retail trade,England & Wales,2026 Q1,quarter,830,0
+G,Wholesale and retail trade,England & Wales,2026 Q2,quarter,829,0
+G,Wholesale and retail trade,Great Britain,2016,annual,2183,0
+G,Wholesale and retail trade,Great Britain,2017,annual,2265,0
+G,Wholesale and retail trade,Great Britain,2018,annual,2469,0
+G,Wholesale and retail trade,Great Britain,2019,annual,2576,0
+G,Wholesale and retail trade,Great Britain,2020,annual,1759,1
+G,Wholesale and retail trade,Great Britain,2021,annual,1783,1
+G,Wholesale and retail trade,Great Britain,2022,annual,3425,0
+G,Wholesale and retail trade,Great Britain,2023 Q1,quarter,997,0
+G,Wholesale and retail trade,Great Britain,2023 Q2,quarter,1035,0
+G,Wholesale and retail trade,Great Britain,2023 Q3,quarter,960,0
+G,Wholesale and retail trade,Great Britain,2023 Q4,quarter,1127,0
+G,Wholesale and retail trade,Great Britain,2024 Q1,quarter,886,0
+G,Wholesale and retail trade,Great Britain,2024 Q2,quarter,1038,0
+G,Wholesale and retail trade,Great Britain,2024 Q3,quarter,905,0
+G,Wholesale and retail trade,Great Britain,2024 Q4,quarter,925,0
+G,Wholesale and retail trade,Great Britain,2025 Q1,quarter,962,0
+G,Wholesale and retail trade,Great Britain,2025 Q2,quarter,1050,0
+G,Wholesale and retail trade,Great Britain,2025 Q3,quarter,995,0
+G,Wholesale and retail trade,Great Britain,2025 Q4,quarter,904,0
+G,Wholesale and retail trade,Great Britain,2026 Q1,quarter,877,0
+G,Wholesale and retail trade,Great Britain,2026 Q2,quarter,864,0
+G,Wholesale and retail trade,Scotland,2016,annual,137,0
+G,Wholesale and retail trade,Scotland,2017,annual,113,0
+G,Wholesale and retail trade,Scotland,2018,annual,118,0
+G,Wholesale and retail trade,Scotland,2019,annual,118,0
+G,Wholesale and retail trade,Scotland,2020,annual,72,1
+G,Wholesale and retail trade,Scotland,2021,annual,61,1
+G,Wholesale and retail trade,Scotland,2022,annual,142,0
+G,Wholesale and retail trade,Scotland,2023 Q1,quarter,38,0
+G,Wholesale and retail trade,Scotland,2023 Q2,quarter,47,0
+G,Wholesale and retail trade,Scotland,2023 Q3,quarter,37,0
+G,Wholesale and retail trade,Scotland,2023 Q4,quarter,49,0
+G,Wholesale and retail trade,Scotland,2024 Q1,quarter,41,0
+G,Wholesale and retail trade,Scotland,2024 Q2,quarter,47,0
+G,Wholesale and retail trade,Scotland,2024 Q3,quarter,38,0
+G,Wholesale and retail trade,Scotland,2024 Q4,quarter,50,0
+G,Wholesale and retail trade,Scotland,2025 Q1,quarter,42,0
+G,Wholesale and retail trade,Scotland,2025 Q2,quarter,50,0
+G,Wholesale and retail trade,Scotland,2025 Q3,quarter,35,0
+G,Wholesale and retail trade,Scotland,2025 Q4,quarter,48,0
+G,Wholesale and retail trade,Scotland,2026 Q1,quarter,47,0
+G,Wholesale and retail trade,Scotland,2026 Q2,quarter,35,0
+H,Transportation and storage,England & Wales,2016,annual,346,0
+H,Transportation and storage,England & Wales,2017,annual,413,0
+H,Transportation and storage,England & Wales,2018,annual,519,0
+H,Transportation and storage,England & Wales,2019,annual,545,0
+H,Transportation and storage,England & Wales,2020,annual,436,1
+H,Transportation and storage,England & Wales,2021,annual,532,1
+H,Transportation and storage,England & Wales,2022,annual,785,0
+H,Transportation and storage,England & Wales,2023 Q1,quarter,198,0
+H,Transportation and storage,England & Wales,2023 Q2,quarter,243,0
+H,Transportation and storage,England & Wales,2023 Q3,quarter,201,0
+H,Transportation and storage,England & Wales,2023 Q4,quarter,239,0
+H,Transportation and storage,England & Wales,2024 Q1,quarter,201,0
+H,Transportation and storage,England & Wales,2024 Q2,quarter,270,0
+H,Transportation and storage,England & Wales,2024 Q3,quarter,208,0
+H,Transportation and storage,England & Wales,2024 Q4,quarter,182,0
+H,Transportation and storage,England & Wales,2025 Q1,quarter,183,0
+H,Transportation and storage,England & Wales,2025 Q2,quarter,200,0
+H,Transportation and storage,England & Wales,2025 Q3,quarter,200,0
+H,Transportation and storage,England & Wales,2025 Q4,quarter,169,0
+H,Transportation and storage,England & Wales,2026 Q1,quarter,139,0
+H,Transportation and storage,England & Wales,2026 Q2,quarter,199,0
+H,Transportation and storage,Great Britain,2016,annual,372,0
+H,Transportation and storage,Great Britain,2017,annual,433,0
+H,Transportation and storage,Great Britain,2018,annual,539,0
+H,Transportation and storage,Great Britain,2019,annual,578,0
+H,Transportation and storage,Great Britain,2020,annual,455,1
+H,Transportation and storage,Great Britain,2021,annual,561,1
+H,Transportation and storage,Great Britain,2022,annual,813,0
+H,Transportation and storage,Great Britain,2023 Q1,quarter,210,0
+H,Transportation and storage,Great Britain,2023 Q2,quarter,251,0
+H,Transportation and storage,Great Britain,2023 Q3,quarter,209,0
+H,Transportation and storage,Great Britain,2023 Q4,quarter,244,0
+H,Transportation and storage,Great Britain,2024 Q1,quarter,212,0
+H,Transportation and storage,Great Britain,2024 Q2,quarter,285,0
+H,Transportation and storage,Great Britain,2024 Q3,quarter,213,0
+H,Transportation and storage,Great Britain,2024 Q4,quarter,192,0
+H,Transportation and storage,Great Britain,2025 Q1,quarter,189,0
+H,Transportation and storage,Great Britain,2025 Q2,quarter,215,0
+H,Transportation and storage,Great Britain,2025 Q3,quarter,210,0
+H,Transportation and storage,Great Britain,2025 Q4,quarter,177,0
+H,Transportation and storage,Great Britain,2026 Q1,quarter,152,0
+H,Transportation and storage,Great Britain,2026 Q2,quarter,208,0
+H,Transportation and storage,Scotland,2016,annual,26,0
+H,Transportation and storage,Scotland,2017,annual,20,0
+H,Transportation and storage,Scotland,2018,annual,20,0
+H,Transportation and storage,Scotland,2019,annual,33,0
+H,Transportation and storage,Scotland,2020,annual,19,1
+H,Transportation and storage,Scotland,2021,annual,29,1
+H,Transportation and storage,Scotland,2022,annual,28,0
+H,Transportation and storage,Scotland,2023 Q1,quarter,12,0
+H,Transportation and storage,Scotland,2023 Q2,quarter,8,0
+H,Transportation and storage,Scotland,2023 Q3,quarter,8,0
+H,Transportation and storage,Scotland,2023 Q4,quarter,5,0
+H,Transportation and storage,Scotland,2024 Q1,quarter,11,0
+H,Transportation and storage,Scotland,2024 Q2,quarter,15,0
+H,Transportation and storage,Scotland,2024 Q3,quarter,5,0
+H,Transportation and storage,Scotland,2024 Q4,quarter,10,0
+H,Transportation and storage,Scotland,2025 Q1,quarter,6,0
+H,Transportation and storage,Scotland,2025 Q2,quarter,15,0
+H,Transportation and storage,Scotland,2025 Q3,quarter,10,0
+H,Transportation and storage,Scotland,2025 Q4,quarter,8,0
+H,Transportation and storage,Scotland,2026 Q1,quarter,13,0
+H,Transportation and storage,Scotland,2026 Q2,quarter,9,0
+I,Accommodation and food service activities,England & Wales,2016,annual,1530,0
+I,Accommodation and food service activities,England & Wales,2017,annual,1698,0
+I,Accommodation and food service activities,England & Wales,2018,annual,2084,0
+I,Accommodation and food service activities,England & Wales,2019,annual,2323,0
+I,Accommodation and food service activities,England & Wales,2020,annual,1715,1
+I,Accommodation and food service activities,England & Wales,2021,annual,1676,1
+I,Accommodation and food service activities,England & Wales,2022,annual,2711,0
+I,Accommodation and food service activities,England & Wales,2023 Q1,quarter,851,0
+I,Accommodation and food service activities,England & Wales,2023 Q2,quarter,925,0
+I,Accommodation and food service activities,England & Wales,2023 Q3,quarter,940,0
+I,Accommodation and food service activities,England & Wales,2023 Q4,quarter,1022,0
+I,Accommodation and food service activities,England & Wales,2024 Q1,quarter,884,0
+I,Accommodation and food service activities,England & Wales,2024 Q2,quarter,921,0
+I,Accommodation and food service activities,England & Wales,2024 Q3,quarter,855,0
+I,Accommodation and food service activities,England & Wales,2024 Q4,quarter,805,0
+I,Accommodation and food service activities,England & Wales,2025 Q1,quarter,827,0
+I,Accommodation and food service activities,England & Wales,2025 Q2,quarter,882,0
+I,Accommodation and food service activities,England & Wales,2025 Q3,quarter,860,0
+I,Accommodation and food service activities,England & Wales,2025 Q4,quarter,792,0
+I,Accommodation and food service activities,England & Wales,2026 Q1,quarter,762,0
+I,Accommodation and food service activities,England & Wales,2026 Q2,quarter,841,0
+I,Accommodation and food service activities,Great Britain,2016,annual,1669,0
+I,Accommodation and food service activities,Great Britain,2017,annual,1815,0
+I,Accommodation and food service activities,Great Britain,2018,annual,2288,0
+I,Accommodation and food service activities,Great Britain,2019,annual,2538,0
+I,Accommodation and food service activities,Great Britain,2020,annual,1837,1
+I,Accommodation and food service activities,Great Britain,2021,annual,1762,1
+I,Accommodation and food service activities,Great Britain,2022,annual,2895,0
+I,Accommodation and food service activities,Great Britain,2023 Q1,quarter,915,0
+I,Accommodation and food service activities,Great Britain,2023 Q2,quarter,991,0
+I,Accommodation and food service activities,Great Britain,2023 Q3,quarter,997,0
+I,Accommodation and food service activities,Great Britain,2023 Q4,quarter,1094,0
+I,Accommodation and food service activities,Great Britain,2024 Q1,quarter,946,0
+I,Accommodation and food service activities,Great Britain,2024 Q2,quarter,996,0
+I,Accommodation and food service activities,Great Britain,2024 Q3,quarter,926,0
+I,Accommodation and food service activities,Great Britain,2024 Q4,quarter,886,0
+I,Accommodation and food service activities,Great Britain,2025 Q1,quarter,879,0
+I,Accommodation and food service activities,Great Britain,2025 Q2,quarter,956,0
+I,Accommodation and food service activities,Great Britain,2025 Q3,quarter,941,0
+I,Accommodation and food service activities,Great Britain,2025 Q4,quarter,864,0
+I,Accommodation and food service activities,Great Britain,2026 Q1,quarter,827,0
+I,Accommodation and food service activities,Great Britain,2026 Q2,quarter,903,0
+I,Accommodation and food service activities,Scotland,2016,annual,139,0
+I,Accommodation and food service activities,Scotland,2017,annual,117,0
+I,Accommodation and food service activities,Scotland,2018,annual,204,0
+I,Accommodation and food service activities,Scotland,2019,annual,215,0
+I,Accommodation and food service activities,Scotland,2020,annual,122,1
+I,Accommodation and food service activities,Scotland,2021,annual,86,1
+I,Accommodation and food service activities,Scotland,2022,annual,184,0
+I,Accommodation and food service activities,Scotland,2023 Q1,quarter,64,0
+I,Accommodation and food service activities,Scotland,2023 Q2,quarter,66,0
+I,Accommodation and food service activities,Scotland,2023 Q3,quarter,57,0
+I,Accommodation and food service activities,Scotland,2023 Q4,quarter,72,0
+I,Accommodation and food service activities,Scotland,2024 Q1,quarter,62,0
+I,Accommodation and food service activities,Scotland,2024 Q2,quarter,75,0
+I,Accommodation and food service activities,Scotland,2024 Q3,quarter,71,0
+I,Accommodation and food service activities,Scotland,2024 Q4,quarter,81,0
+I,Accommodation and food service activities,Scotland,2025 Q1,quarter,52,0
+I,Accommodation and food service activities,Scotland,2025 Q2,quarter,74,0
+I,Accommodation and food service activities,Scotland,2025 Q3,quarter,81,0
+I,Accommodation and food service activities,Scotland,2025 Q4,quarter,72,0
+I,Accommodation and food service activities,Scotland,2026 Q1,quarter,65,0
+I,Accommodation and food service activities,Scotland,2026 Q2,quarter,62,0
+J,Information and communication,England & Wales,2016,annual,886,0
+J,Information and communication,England & Wales,2017,annual,867,0
+J,Information and communication,England & Wales,2018,annual,898,0
+J,Information and communication,England & Wales,2019,annual,908,0
+J,Information and communication,England & Wales,2020,annual,690,1
+J,Information and communication,England & Wales,2021,annual,908,1
+J,Information and communication,England & Wales,2022,annual,1289,0
+J,Information and communication,England & Wales,2023 Q1,quarter,290,0
+J,Information and communication,England & Wales,2023 Q2,quarter,322,0
+J,Information and communication,England & Wales,2023 Q3,quarter,360,0
+J,Information and communication,England & Wales,2023 Q4,quarter,425,0
+J,Information and communication,England & Wales,2024 Q1,quarter,366,0
+J,Information and communication,England & Wales,2024 Q2,quarter,409,0
+J,Information and communication,England & Wales,2024 Q3,quarter,350,0
+J,Information and communication,England & Wales,2024 Q4,quarter,388,0
+J,Information and communication,England & Wales,2025 Q1,quarter,352,0
+J,Information and communication,England & Wales,2025 Q2,quarter,373,0
+J,Information and communication,England & Wales,2025 Q3,quarter,401,0
+J,Information and communication,England & Wales,2025 Q4,quarter,340,0
+J,Information and communication,England & Wales,2026 Q1,quarter,327,0
+J,Information and communication,England & Wales,2026 Q2,quarter,329,0
+J,Information and communication,Great Britain,2016,annual,927,0
+J,Information and communication,Great Britain,2017,annual,902,0
+J,Information and communication,Great Britain,2018,annual,957,0
+J,Information and communication,Great Britain,2019,annual,955,0
+J,Information and communication,Great Britain,2020,annual,710,1
+J,Information and communication,Great Britain,2021,annual,939,1
+J,Information and communication,Great Britain,2022,annual,1336,0
+J,Information and communication,Great Britain,2023 Q1,quarter,302,0
+J,Information and communication,Great Britain,2023 Q2,quarter,330,0
+J,Information and communication,Great Britain,2023 Q3,quarter,380,0
+J,Information and communication,Great Britain,2023 Q4,quarter,437,0
+J,Information and communication,Great Britain,2024 Q1,quarter,374,0
+J,Information and communication,Great Britain,2024 Q2,quarter,423,0
+J,Information and communication,Great Britain,2024 Q3,quarter,364,0
+J,Information and communication,Great Britain,2024 Q4,quarter,400,0
+J,Information and communication,Great Britain,2025 Q1,quarter,378,0
+J,Information and communication,Great Britain,2025 Q2,quarter,387,0
+J,Information and communication,Great Britain,2025 Q3,quarter,417,0
+J,Information and communication,Great Britain,2025 Q4,quarter,357,0
+J,Information and communication,Great Britain,2026 Q1,quarter,342,0
+J,Information and communication,Great Britain,2026 Q2,quarter,340,0
+J,Information and communication,Scotland,2016,annual,41,0
+J,Information and communication,Scotland,2017,annual,35,0
+J,Information and communication,Scotland,2018,annual,59,0
+J,Information and communication,Scotland,2019,annual,47,0
+J,Information and communication,Scotland,2020,annual,20,1
+J,Information and communication,Scotland,2021,annual,31,1
+J,Information and communication,Scotland,2022,annual,47,0
+J,Information and communication,Scotland,2023 Q1,quarter,12,0
+J,Information and communication,Scotland,2023 Q2,quarter,8,0
+J,Information and communication,Scotland,2023 Q3,quarter,20,0
+J,Information and communication,Scotland,2023 Q4,quarter,12,0
+J,Information and communication,Scotland,2024 Q1,quarter,8,0
+J,Information and communication,Scotland,2024 Q2,quarter,14,0
+J,Information and communication,Scotland,2024 Q3,quarter,14,0
+J,Information and communication,Scotland,2024 Q4,quarter,12,0
+J,Information and communication,Scotland,2025 Q1,quarter,26,0
+J,Information and communication,Scotland,2025 Q2,quarter,14,0
+J,Information and communication,Scotland,2025 Q3,quarter,16,0
+J,Information and communication,Scotland,2025 Q4,quarter,17,0
+J,Information and communication,Scotland,2026 Q1,quarter,15,0
+J,Information and communication,Scotland,2026 Q2,quarter,11,0
+K,Financial and insurance activities,England & Wales,2016,annual,265,0
+K,Financial and insurance activities,England & Wales,2017,annual,248,0
+K,Financial and insurance activities,England & Wales,2018,annual,302,0
+K,Financial and insurance activities,England & Wales,2019,annual,320,0
+K,Financial and insurance activities,England & Wales,2020,annual,327,1
+K,Financial and insurance activities,England & Wales,2021,annual,304,1
+K,Financial and insurance activities,England & Wales,2022,annual,414,0
+K,Financial and insurance activities,England & Wales,2023 Q1,quarter,84,0
+K,Financial and insurance activities,England & Wales,2023 Q2,quarter,109,0
+K,Financial and insurance activities,England & Wales,2023 Q3,quarter,106,0
+K,Financial and insurance activities,England & Wales,2023 Q4,quarter,120,0
+K,Financial and insurance activities,England & Wales,2024 Q1,quarter,106,0
+K,Financial and insurance activities,England & Wales,2024 Q2,quarter,156,0
+K,Financial and insurance activities,England & Wales,2024 Q3,quarter,119,0
+K,Financial and insurance activities,England & Wales,2024 Q4,quarter,124,0
+K,Financial and insurance activities,England & Wales,2025 Q1,quarter,109,0
+K,Financial and insurance activities,England & Wales,2025 Q2,quarter,133,0
+K,Financial and insurance activities,England & Wales,2025 Q3,quarter,113,0
+K,Financial and insurance activities,England & Wales,2025 Q4,quarter,104,0
+K,Financial and insurance activities,England & Wales,2026 Q1,quarter,133,0
+K,Financial and insurance activities,England & Wales,2026 Q2,quarter,147,0
+K,Financial and insurance activities,Great Britain,2016,annual,269,0
+K,Financial and insurance activities,Great Britain,2017,annual,255,0
+K,Financial and insurance activities,Great Britain,2018,annual,310,0
+K,Financial and insurance activities,Great Britain,2019,annual,331,0
+K,Financial and insurance activities,Great Britain,2020,annual,334,1
+K,Financial and insurance activities,Great Britain,2021,annual,313,1
+K,Financial and insurance activities,Great Britain,2022,annual,428,0
+K,Financial and insurance activities,Great Britain,2023 Q1,quarter,87,0
+K,Financial and insurance activities,Great Britain,2023 Q2,quarter,111,0
+K,Financial and insurance activities,Great Britain,2023 Q3,quarter,107,0
+K,Financial and insurance activities,Great Britain,2023 Q4,quarter,123,0
+K,Financial and insurance activities,Great Britain,2024 Q1,quarter,109,0
+K,Financial and insurance activities,Great Britain,2024 Q2,quarter,159,0
+K,Financial and insurance activities,Great Britain,2024 Q3,quarter,120,0
+K,Financial and insurance activities,Great Britain,2024 Q4,quarter,127,0
+K,Financial and insurance activities,Great Britain,2025 Q1,quarter,113,0
+K,Financial and insurance activities,Great Britain,2025 Q2,quarter,134,0
+K,Financial and insurance activities,Great Britain,2025 Q3,quarter,117,0
+K,Financial and insurance activities,Great Britain,2025 Q4,quarter,105,0
+K,Financial and insurance activities,Great Britain,2026 Q1,quarter,139,0
+K,Financial and insurance activities,Great Britain,2026 Q2,quarter,150,0
+K,Financial and insurance activities,Scotland,2016,annual,4,0
+K,Financial and insurance activities,Scotland,2017,annual,7,0
+K,Financial and insurance activities,Scotland,2018,annual,8,0
+K,Financial and insurance activities,Scotland,2019,annual,11,0
+K,Financial and insurance activities,Scotland,2020,annual,7,1
+K,Financial and insurance activities,Scotland,2021,annual,9,1
+K,Financial and insurance activities,Scotland,2022,annual,14,0
+K,Financial and insurance activities,Scotland,2023 Q1,quarter,3,0
+K,Financial and insurance activities,Scotland,2023 Q2,quarter,2,0
+K,Financial and insurance activities,Scotland,2023 Q3,quarter,1,0
+K,Financial and insurance activities,Scotland,2023 Q4,quarter,3,0
+K,Financial and insurance activities,Scotland,2024 Q1,quarter,3,0
+K,Financial and insurance activities,Scotland,2024 Q2,quarter,3,0
+K,Financial and insurance activities,Scotland,2024 Q3,quarter,1,0
+K,Financial and insurance activities,Scotland,2024 Q4,quarter,3,0
+K,Financial and insurance activities,Scotland,2025 Q1,quarter,4,0
+K,Financial and insurance activities,Scotland,2025 Q2,quarter,1,0
+K,Financial and insurance activities,Scotland,2025 Q3,quarter,4,0
+K,Financial and insurance activities,Scotland,2025 Q4,quarter,1,0
+K,Financial and insurance activities,Scotland,2026 Q1,quarter,6,0
+K,Financial and insurance activities,Scotland,2026 Q2,quarter,3,0
+L,Real estate activities,England & Wales,2016,annual,380,0
+L,Real estate activities,England & Wales,2017,annual,365,0
+L,Real estate activities,England & Wales,2018,annual,370,0
+L,Real estate activities,England & Wales,2019,annual,494,0
+L,Real estate activities,England & Wales,2020,annual,367,1
+L,Real estate activities,England & Wales,2021,annual,413,1
+L,Real estate activities,England & Wales,2022,annual,720,0
+L,Real estate activities,England & Wales,2023 Q1,quarter,149,0
+L,Real estate activities,England & Wales,2023 Q2,quarter,208,0
+L,Real estate activities,England & Wales,2023 Q3,quarter,179,0
+L,Real estate activities,England & Wales,2023 Q4,quarter,214,0
+L,Real estate activities,England & Wales,2024 Q1,quarter,173,0
+L,Real estate activities,England & Wales,2024 Q2,quarter,200,0
+L,Real estate activities,England & Wales,2024 Q3,quarter,177,0
+L,Real estate activities,England & Wales,2024 Q4,quarter,184,0
+L,Real estate activities,England & Wales,2025 Q1,quarter,174,0
+L,Real estate activities,England & Wales,2025 Q2,quarter,224,0
+L,Real estate activities,England & Wales,2025 Q3,quarter,195,0
+L,Real estate activities,England & Wales,2025 Q4,quarter,181,0
+L,Real estate activities,England & Wales,2026 Q1,quarter,296,0
+L,Real estate activities,England & Wales,2026 Q2,quarter,309,0
+L,Real estate activities,Great Britain,2016,annual,437,0
+L,Real estate activities,Great Britain,2017,annual,401,0
+L,Real estate activities,Great Britain,2018,annual,387,0
+L,Real estate activities,Great Britain,2019,annual,526,0
+L,Real estate activities,Great Britain,2020,annual,383,1
+L,Real estate activities,Great Britain,2021,annual,431,1
+L,Real estate activities,Great Britain,2022,annual,742,0
+L,Real estate activities,Great Britain,2023 Q1,quarter,160,0
+L,Real estate activities,Great Britain,2023 Q2,quarter,218,0
+L,Real estate activities,Great Britain,2023 Q3,quarter,188,0
+L,Real estate activities,Great Britain,2023 Q4,quarter,220,0
+L,Real estate activities,Great Britain,2024 Q1,quarter,180,0
+L,Real estate activities,Great Britain,2024 Q2,quarter,206,0
+L,Real estate activities,Great Britain,2024 Q3,quarter,189,0
+L,Real estate activities,Great Britain,2024 Q4,quarter,194,0
+L,Real estate activities,Great Britain,2025 Q1,quarter,182,0
+L,Real estate activities,Great Britain,2025 Q2,quarter,235,0
+L,Real estate activities,Great Britain,2025 Q3,quarter,204,0
+L,Real estate activities,Great Britain,2025 Q4,quarter,199,0
+L,Real estate activities,Great Britain,2026 Q1,quarter,308,0
+L,Real estate activities,Great Britain,2026 Q2,quarter,317,0
+L,Real estate activities,Scotland,2016,annual,57,0
+L,Real estate activities,Scotland,2017,annual,36,0
+L,Real estate activities,Scotland,2018,annual,17,0
+L,Real estate activities,Scotland,2019,annual,32,0
+L,Real estate activities,Scotland,2020,annual,16,1
+L,Real estate activities,Scotland,2021,annual,18,1
+L,Real estate activities,Scotland,2022,annual,22,0
+L,Real estate activities,Scotland,2023 Q1,quarter,11,0
+L,Real estate activities,Scotland,2023 Q2,quarter,10,0
+L,Real estate activities,Scotland,2023 Q3,quarter,9,0
+L,Real estate activities,Scotland,2023 Q4,quarter,6,0
+L,Real estate activities,Scotland,2024 Q1,quarter,7,0
+L,Real estate activities,Scotland,2024 Q2,quarter,6,0
+L,Real estate activities,Scotland,2024 Q3,quarter,12,0
+L,Real estate activities,Scotland,2024 Q4,quarter,10,0
+L,Real estate activities,Scotland,2025 Q1,quarter,8,0
+L,Real estate activities,Scotland,2025 Q2,quarter,11,0
+L,Real estate activities,Scotland,2025 Q3,quarter,9,0
+L,Real estate activities,Scotland,2025 Q4,quarter,18,0
+L,Real estate activities,Scotland,2026 Q1,quarter,12,0
+L,Real estate activities,Scotland,2026 Q2,quarter,8,0
+M,"Professional, scientific and technical activities",England & Wales,2016,annual,1203,0
+M,"Professional, scientific and technical activities",England & Wales,2017,annual,1163,0
+M,"Professional, scientific and technical activities",England & Wales,2018,annual,1229,0
+M,"Professional, scientific and technical activities",England & Wales,2019,annual,1344,0
+M,"Professional, scientific and technical activities",England & Wales,2020,annual,1007,1
+M,"Professional, scientific and technical activities",England & Wales,2021,annual,1372,1
+M,"Professional, scientific and technical activities",England & Wales,2022,annual,1807,0
+M,"Professional, scientific and technical activities",England & Wales,2023 Q1,quarter,479,0
+M,"Professional, scientific and technical activities",England & Wales,2023 Q2,quarter,528,0
+M,"Professional, scientific and technical activities",England & Wales,2023 Q3,quarter,496,0
+M,"Professional, scientific and technical activities",England & Wales,2023 Q4,quarter,513,0
+M,"Professional, scientific and technical activities",England & Wales,2024 Q1,quarter,453,0
+M,"Professional, scientific and technical activities",England & Wales,2024 Q2,quarter,500,0
+M,"Professional, scientific and technical activities",England & Wales,2024 Q3,quarter,482,0
+M,"Professional, scientific and technical activities",England & Wales,2024 Q4,quarter,485,0
+M,"Professional, scientific and technical activities",England & Wales,2025 Q1,quarter,465,0
+M,"Professional, scientific and technical activities",England & Wales,2025 Q2,quarter,518,0
+M,"Professional, scientific and technical activities",England & Wales,2025 Q3,quarter,499,0
+M,"Professional, scientific and technical activities",England & Wales,2025 Q4,quarter,522,0
+M,"Professional, scientific and technical activities",England & Wales,2026 Q1,quarter,461,0
+M,"Professional, scientific and technical activities",England & Wales,2026 Q2,quarter,455,0
+M,"Professional, scientific and technical activities",Great Britain,2016,annual,1307,0
+M,"Professional, scientific and technical activities",Great Britain,2017,annual,1244,0
+M,"Professional, scientific and technical activities",Great Britain,2018,annual,1305,0
+M,"Professional, scientific and technical activities",Great Britain,2019,annual,1423,0
+M,"Professional, scientific and technical activities",Great Britain,2020,annual,1062,1
+M,"Professional, scientific and technical activities",Great Britain,2021,annual,1472,1
+M,"Professional, scientific and technical activities",Great Britain,2022,annual,1927,0
+M,"Professional, scientific and technical activities",Great Britain,2023 Q1,quarter,498,0
+M,"Professional, scientific and technical activities",Great Britain,2023 Q2,quarter,557,0
+M,"Professional, scientific and technical activities",Great Britain,2023 Q3,quarter,521,0
+M,"Professional, scientific and technical activities",Great Britain,2023 Q4,quarter,537,0
+M,"Professional, scientific and technical activities",Great Britain,2024 Q1,quarter,477,0
+M,"Professional, scientific and technical activities",Great Britain,2024 Q2,quarter,526,0
+M,"Professional, scientific and technical activities",Great Britain,2024 Q3,quarter,495,0
+M,"Professional, scientific and technical activities",Great Britain,2024 Q4,quarter,501,0
+M,"Professional, scientific and technical activities",Great Britain,2025 Q1,quarter,487,0
+M,"Professional, scientific and technical activities",Great Britain,2025 Q2,quarter,539,0
+M,"Professional, scientific and technical activities",Great Britain,2025 Q3,quarter,523,0
+M,"Professional, scientific and technical activities",Great Britain,2025 Q4,quarter,548,0
+M,"Professional, scientific and technical activities",Great Britain,2026 Q1,quarter,483,0
+M,"Professional, scientific and technical activities",Great Britain,2026 Q2,quarter,481,0
+M,"Professional, scientific and technical activities",Scotland,2016,annual,104,0
+M,"Professional, scientific and technical activities",Scotland,2017,annual,81,0
+M,"Professional, scientific and technical activities",Scotland,2018,annual,76,0
+M,"Professional, scientific and technical activities",Scotland,2019,annual,79,0
+M,"Professional, scientific and technical activities",Scotland,2020,annual,55,1
+M,"Professional, scientific and technical activities",Scotland,2021,annual,100,1
+M,"Professional, scientific and technical activities",Scotland,2022,annual,120,0
+M,"Professional, scientific and technical activities",Scotland,2023 Q1,quarter,19,0
+M,"Professional, scientific and technical activities",Scotland,2023 Q2,quarter,29,0
+M,"Professional, scientific and technical activities",Scotland,2023 Q3,quarter,25,0
+M,"Professional, scientific and technical activities",Scotland,2023 Q4,quarter,24,0
+M,"Professional, scientific and technical activities",Scotland,2024 Q1,quarter,24,0
+M,"Professional, scientific and technical activities",Scotland,2024 Q2,quarter,26,0
+M,"Professional, scientific and technical activities",Scotland,2024 Q3,quarter,13,0
+M,"Professional, scientific and technical activities",Scotland,2024 Q4,quarter,16,0
+M,"Professional, scientific and technical activities",Scotland,2025 Q1,quarter,22,0
+M,"Professional, scientific and technical activities",Scotland,2025 Q2,quarter,21,0
+M,"Professional, scientific and technical activities",Scotland,2025 Q3,quarter,24,0
+M,"Professional, scientific and technical activities",Scotland,2025 Q4,quarter,26,0
+M,"Professional, scientific and technical activities",Scotland,2026 Q1,quarter,22,0
+M,"Professional, scientific and technical activities",Scotland,2026 Q2,quarter,26,0
+N,Administrative and support service activities,England & Wales,2016,annual,1714,0
+N,Administrative and support service activities,England & Wales,2017,annual,1615,0
+N,Administrative and support service activities,England & Wales,2018,annual,1788,0
+N,Administrative and support service activities,England & Wales,2019,annual,1827,0
+N,Administrative and support service activities,England & Wales,2020,annual,1441,1
+N,Administrative and support service activities,England & Wales,2021,annual,1571,1
+N,Administrative and support service activities,England & Wales,2022,annual,2214,0
+N,Administrative and support service activities,England & Wales,2023 Q1,quarter,541,0
+N,Administrative and support service activities,England & Wales,2023 Q2,quarter,586,0
+N,Administrative and support service activities,England & Wales,2023 Q3,quarter,574,0
+N,Administrative and support service activities,England & Wales,2023 Q4,quarter,605,0
+N,Administrative and support service activities,England & Wales,2024 Q1,quarter,553,0
+N,Administrative and support service activities,England & Wales,2024 Q2,quarter,676,0
+N,Administrative and support service activities,England & Wales,2024 Q3,quarter,593,0
+N,Administrative and support service activities,England & Wales,2024 Q4,quarter,547,0
+N,Administrative and support service activities,England & Wales,2025 Q1,quarter,586,0
+N,Administrative and support service activities,England & Wales,2025 Q2,quarter,709,0
+N,Administrative and support service activities,England & Wales,2025 Q3,quarter,573,0
+N,Administrative and support service activities,England & Wales,2025 Q4,quarter,587,0
+N,Administrative and support service activities,England & Wales,2026 Q1,quarter,505,0
+N,Administrative and support service activities,England & Wales,2026 Q2,quarter,533,0
+N,Administrative and support service activities,Great Britain,2016,annual,1845,0
+N,Administrative and support service activities,Great Britain,2017,annual,1717,0
+N,Administrative and support service activities,Great Britain,2018,annual,1887,0
+N,Administrative and support service activities,Great Britain,2019,annual,1917,0
+N,Administrative and support service activities,Great Britain,2020,annual,1512,1
+N,Administrative and support service activities,Great Britain,2021,annual,1637,1
+N,Administrative and support service activities,Great Britain,2022,annual,2309,0
+N,Administrative and support service activities,Great Britain,2023 Q1,quarter,566,0
+N,Administrative and support service activities,Great Britain,2023 Q2,quarter,615,0
+N,Administrative and support service activities,Great Britain,2023 Q3,quarter,593,0
+N,Administrative and support service activities,Great Britain,2023 Q4,quarter,635,0
+N,Administrative and support service activities,Great Britain,2024 Q1,quarter,588,0
+N,Administrative and support service activities,Great Britain,2024 Q2,quarter,701,0
+N,Administrative and support service activities,Great Britain,2024 Q3,quarter,614,0
+N,Administrative and support service activities,Great Britain,2024 Q4,quarter,566,0
+N,Administrative and support service activities,Great Britain,2025 Q1,quarter,613,0
+N,Administrative and support service activities,Great Britain,2025 Q2,quarter,731,0
+N,Administrative and support service activities,Great Britain,2025 Q3,quarter,598,0
+N,Administrative and support service activities,Great Britain,2025 Q4,quarter,620,0
+N,Administrative and support service activities,Great Britain,2026 Q1,quarter,526,0
+N,Administrative and support service activities,Great Britain,2026 Q2,quarter,562,0
+N,Administrative and support service activities,Scotland,2016,annual,131,0
+N,Administrative and support service activities,Scotland,2017,annual,102,0
+N,Administrative and support service activities,Scotland,2018,annual,99,0
+N,Administrative and support service activities,Scotland,2019,annual,90,0
+N,Administrative and support service activities,Scotland,2020,annual,71,1
+N,Administrative and support service activities,Scotland,2021,annual,66,1
+N,Administrative and support service activities,Scotland,2022,annual,95,0
+N,Administrative and support service activities,Scotland,2023 Q1,quarter,25,0
+N,Administrative and support service activities,Scotland,2023 Q2,quarter,29,0
+N,Administrative and support service activities,Scotland,2023 Q3,quarter,19,0
+N,Administrative and support service activities,Scotland,2023 Q4,quarter,30,0
+N,Administrative and support service activities,Scotland,2024 Q1,quarter,35,0
+N,Administrative and support service activities,Scotland,2024 Q2,quarter,25,0
+N,Administrative and support service activities,Scotland,2024 Q3,quarter,21,0
+N,Administrative and support service activities,Scotland,2024 Q4,quarter,19,0
+N,Administrative and support service activities,Scotland,2025 Q1,quarter,27,0
+N,Administrative and support service activities,Scotland,2025 Q2,quarter,22,0
+N,Administrative and support service activities,Scotland,2025 Q3,quarter,25,0
+N,Administrative and support service activities,Scotland,2025 Q4,quarter,33,0
+N,Administrative and support service activities,Scotland,2026 Q1,quarter,21,0
+N,Administrative and support service activities,Scotland,2026 Q2,quarter,29,0
+P,Education,England & Wales,2016,annual,170,0
+P,Education,England & Wales,2017,annual,169,0
+P,Education,England & Wales,2018,annual,179,0
+P,Education,England & Wales,2019,annual,151,0
+P,Education,England & Wales,2020,annual,154,1
+P,Education,England & Wales,2021,annual,181,1
+P,Education,England & Wales,2022,annual,270,0
+P,Education,England & Wales,2023 Q1,quarter,65,0
+P,Education,England & Wales,2023 Q2,quarter,87,0
+P,Education,England & Wales,2023 Q3,quarter,80,0
+P,Education,England & Wales,2023 Q4,quarter,82,0
+P,Education,England & Wales,2024 Q1,quarter,62,0
+P,Education,England & Wales,2024 Q2,quarter,63,0
+P,Education,England & Wales,2024 Q3,quarter,79,0
+P,Education,England & Wales,2024 Q4,quarter,61,0
+P,Education,England & Wales,2025 Q1,quarter,60,0
+P,Education,England & Wales,2025 Q2,quarter,62,0
+P,Education,England & Wales,2025 Q3,quarter,81,0
+P,Education,England & Wales,2025 Q4,quarter,46,0
+P,Education,England & Wales,2026 Q1,quarter,57,0
+P,Education,England & Wales,2026 Q2,quarter,64,0
+P,Education,Great Britain,2016,annual,179,0
+P,Education,Great Britain,2017,annual,174,0
+P,Education,Great Britain,2018,annual,190,0
+P,Education,Great Britain,2019,annual,158,0
+P,Education,Great Britain,2020,annual,157,1
+P,Education,Great Britain,2021,annual,192,1
+P,Education,Great Britain,2022,annual,277,0
+P,Education,Great Britain,2023 Q1,quarter,65,0
+P,Education,Great Britain,2023 Q2,quarter,90,0
+P,Education,Great Britain,2023 Q3,quarter,86,0
+P,Education,Great Britain,2023 Q4,quarter,85,0
+P,Education,Great Britain,2024 Q1,quarter,65,0
+P,Education,Great Britain,2024 Q2,quarter,68,0
+P,Education,Great Britain,2024 Q3,quarter,79,0
+P,Education,Great Britain,2024 Q4,quarter,65,0
+P,Education,Great Britain,2025 Q1,quarter,64,0
+P,Education,Great Britain,2025 Q2,quarter,65,0
+P,Education,Great Britain,2025 Q3,quarter,83,0
+P,Education,Great Britain,2025 Q4,quarter,47,0
+P,Education,Great Britain,2026 Q1,quarter,58,0
+P,Education,Great Britain,2026 Q2,quarter,69,0
+P,Education,Scotland,2016,annual,9,0
+P,Education,Scotland,2017,annual,5,0
+P,Education,Scotland,2018,annual,11,0
+P,Education,Scotland,2019,annual,7,0
+P,Education,Scotland,2020,annual,3,1
+P,Education,Scotland,2021,annual,11,1
+P,Education,Scotland,2022,annual,7,0
+P,Education,Scotland,2023 Q1,quarter,0,0
+P,Education,Scotland,2023 Q2,quarter,3,0
+P,Education,Scotland,2023 Q3,quarter,6,0
+P,Education,Scotland,2023 Q4,quarter,3,0
+P,Education,Scotland,2024 Q1,quarter,3,0
+P,Education,Scotland,2024 Q2,quarter,5,0
+P,Education,Scotland,2024 Q3,quarter,0,0
+P,Education,Scotland,2024 Q4,quarter,4,0
+P,Education,Scotland,2025 Q1,quarter,4,0
+P,Education,Scotland,2025 Q2,quarter,3,0
+P,Education,Scotland,2025 Q3,quarter,2,0
+P,Education,Scotland,2025 Q4,quarter,1,0
+P,Education,Scotland,2026 Q1,quarter,1,0
+P,Education,Scotland,2026 Q2,quarter,5,0
+Q,Human health and social work activities,England & Wales,2016,annual,299,0
+Q,Human health and social work activities,England & Wales,2017,annual,352,0
+Q,Human health and social work activities,England & Wales,2018,annual,355,0
+Q,Human health and social work activities,England & Wales,2019,annual,369,0
+Q,Human health and social work activities,England & Wales,2020,annual,274,1
+Q,Human health and social work activities,England & Wales,2021,annual,278,1
+Q,Human health and social work activities,England & Wales,2022,annual,464,0
+Q,Human health and social work activities,England & Wales,2023 Q1,quarter,140,0
+Q,Human health and social work activities,England & Wales,2023 Q2,quarter,114,0
+Q,Human health and social work activities,England & Wales,2023 Q3,quarter,129,0
+Q,Human health and social work activities,England & Wales,2023 Q4,quarter,133,0
+Q,Human health and social work activities,England & Wales,2024 Q1,quarter,114,0
+Q,Human health and social work activities,England & Wales,2024 Q2,quarter,156,0
+Q,Human health and social work activities,England & Wales,2024 Q3,quarter,108,0
+Q,Human health and social work activities,England & Wales,2024 Q4,quarter,134,0
+Q,Human health and social work activities,England & Wales,2025 Q1,quarter,124,0
+Q,Human health and social work activities,England & Wales,2025 Q2,quarter,161,0
+Q,Human health and social work activities,England & Wales,2025 Q3,quarter,167,0
+Q,Human health and social work activities,England & Wales,2025 Q4,quarter,155,0
+Q,Human health and social work activities,England & Wales,2026 Q1,quarter,159,0
+Q,Human health and social work activities,England & Wales,2026 Q2,quarter,161,0
+Q,Human health and social work activities,Great Britain,2016,annual,322,0
+Q,Human health and social work activities,Great Britain,2017,annual,361,0
+Q,Human health and social work activities,Great Britain,2018,annual,361,0
+Q,Human health and social work activities,Great Britain,2019,annual,383,0
+Q,Human health and social work activities,Great Britain,2020,annual,281,1
+Q,Human health and social work activities,Great Britain,2021,annual,283,1
+Q,Human health and social work activities,Great Britain,2022,annual,476,0
+Q,Human health and social work activities,Great Britain,2023 Q1,quarter,144,0
+Q,Human health and social work activities,Great Britain,2023 Q2,quarter,121,0
+Q,Human health and social work activities,Great Britain,2023 Q3,quarter,137,0
+Q,Human health and social work activities,Great Britain,2023 Q4,quarter,135,0
+Q,Human health and social work activities,Great Britain,2024 Q1,quarter,115,0
+Q,Human health and social work activities,Great Britain,2024 Q2,quarter,158,0
+Q,Human health and social work activities,Great Britain,2024 Q3,quarter,115,0
+Q,Human health and social work activities,Great Britain,2024 Q4,quarter,141,0
+Q,Human health and social work activities,Great Britain,2025 Q1,quarter,128,0
+Q,Human health and social work activities,Great Britain,2025 Q2,quarter,172,0
+Q,Human health and social work activities,Great Britain,2025 Q3,quarter,172,0
+Q,Human health and social work activities,Great Britain,2025 Q4,quarter,161,0
+Q,Human health and social work activities,Great Britain,2026 Q1,quarter,165,0
+Q,Human health and social work activities,Great Britain,2026 Q2,quarter,168,0
+Q,Human health and social work activities,Scotland,2016,annual,23,0
+Q,Human health and social work activities,Scotland,2017,annual,9,0
+Q,Human health and social work activities,Scotland,2018,annual,6,0
+Q,Human health and social work activities,Scotland,2019,annual,14,0
+Q,Human health and social work activities,Scotland,2020,annual,7,1
+Q,Human health and social work activities,Scotland,2021,annual,5,1
+Q,Human health and social work activities,Scotland,2022,annual,12,0
+Q,Human health and social work activities,Scotland,2023 Q1,quarter,4,0
+Q,Human health and social work activities,Scotland,2023 Q2,quarter,7,0
+Q,Human health and social work activities,Scotland,2023 Q3,quarter,8,0
+Q,Human health and social work activities,Scotland,2023 Q4,quarter,2,0
+Q,Human health and social work activities,Scotland,2024 Q1,quarter,1,0
+Q,Human health and social work activities,Scotland,2024 Q2,quarter,2,0
+Q,Human health and social work activities,Scotland,2024 Q3,quarter,7,0
+Q,Human health and social work activities,Scotland,2024 Q4,quarter,7,0
+Q,Human health and social work activities,Scotland,2025 Q1,quarter,4,0
+Q,Human health and social work activities,Scotland,2025 Q2,quarter,11,0
+Q,Human health and social work activities,Scotland,2025 Q3,quarter,5,0
+Q,Human health and social work activities,Scotland,2025 Q4,quarter,6,0
+Q,Human health and social work activities,Scotland,2026 Q1,quarter,6,0
+Q,Human health and social work activities,Scotland,2026 Q2,quarter,7,0
+R,"Arts, entertainment and recreation",England & Wales,2016,annual,218,0
+R,"Arts, entertainment and recreation",England & Wales,2017,annual,266,0
+R,"Arts, entertainment and recreation",England & Wales,2018,annual,293,0
+R,"Arts, entertainment and recreation",England & Wales,2019,annual,337,0
+R,"Arts, entertainment and recreation",England & Wales,2020,annual,289,1
+R,"Arts, entertainment and recreation",England & Wales,2021,annual,336,1
+R,"Arts, entertainment and recreation",England & Wales,2022,annual,432,0
+R,"Arts, entertainment and recreation",England & Wales,2023 Q1,quarter,117,0
+R,"Arts, entertainment and recreation",England & Wales,2023 Q2,quarter,119,0
+R,"Arts, entertainment and recreation",England & Wales,2023 Q3,quarter,116,0
+R,"Arts, entertainment and recreation",England & Wales,2023 Q4,quarter,126,0
+R,"Arts, entertainment and recreation",England & Wales,2024 Q1,quarter,84,0
+R,"Arts, entertainment and recreation",England & Wales,2024 Q2,quarter,118,0
+R,"Arts, entertainment and recreation",England & Wales,2024 Q3,quarter,116,0
+R,"Arts, entertainment and recreation",England & Wales,2024 Q4,quarter,107,0
+R,"Arts, entertainment and recreation",England & Wales,2025 Q1,quarter,105,0
+R,"Arts, entertainment and recreation",England & Wales,2025 Q2,quarter,108,0
+R,"Arts, entertainment and recreation",England & Wales,2025 Q3,quarter,134,0
+R,"Arts, entertainment and recreation",England & Wales,2025 Q4,quarter,117,0
+R,"Arts, entertainment and recreation",England & Wales,2026 Q1,quarter,117,0
+R,"Arts, entertainment and recreation",England & Wales,2026 Q2,quarter,102,0
+R,"Arts, entertainment and recreation",Great Britain,2016,annual,234,0
+R,"Arts, entertainment and recreation",Great Britain,2017,annual,278,0
+R,"Arts, entertainment and recreation",Great Britain,2018,annual,307,0
+R,"Arts, entertainment and recreation",Great Britain,2019,annual,360,0
+R,"Arts, entertainment and recreation",Great Britain,2020,annual,304,1
+R,"Arts, entertainment and recreation",Great Britain,2021,annual,347,1
+R,"Arts, entertainment and recreation",Great Britain,2022,annual,447,0
+R,"Arts, entertainment and recreation",Great Britain,2023 Q1,quarter,119,0
+R,"Arts, entertainment and recreation",Great Britain,2023 Q2,quarter,124,0
+R,"Arts, entertainment and recreation",Great Britain,2023 Q3,quarter,124,0
+R,"Arts, entertainment and recreation",Great Britain,2023 Q4,quarter,135,0
+R,"Arts, entertainment and recreation",Great Britain,2024 Q1,quarter,89,0
+R,"Arts, entertainment and recreation",Great Britain,2024 Q2,quarter,126,0
+R,"Arts, entertainment and recreation",Great Britain,2024 Q3,quarter,123,0
+R,"Arts, entertainment and recreation",Great Britain,2024 Q4,quarter,113,0
+R,"Arts, entertainment and recreation",Great Britain,2025 Q1,quarter,110,0
+R,"Arts, entertainment and recreation",Great Britain,2025 Q2,quarter,113,0
+R,"Arts, entertainment and recreation",Great Britain,2025 Q3,quarter,143,0
+R,"Arts, entertainment and recreation",Great Britain,2025 Q4,quarter,120,0
+R,"Arts, entertainment and recreation",Great Britain,2026 Q1,quarter,123,0
+R,"Arts, entertainment and recreation",Great Britain,2026 Q2,quarter,114,0
+R,"Arts, entertainment and recreation",Scotland,2016,annual,16,0
+R,"Arts, entertainment and recreation",Scotland,2017,annual,12,0
+R,"Arts, entertainment and recreation",Scotland,2018,annual,14,0
+R,"Arts, entertainment and recreation",Scotland,2019,annual,23,0
+R,"Arts, entertainment and recreation",Scotland,2020,annual,15,1
+R,"Arts, entertainment and recreation",Scotland,2021,annual,11,1
+R,"Arts, entertainment and recreation",Scotland,2022,annual,15,0
+R,"Arts, entertainment and recreation",Scotland,2023 Q1,quarter,2,0
+R,"Arts, entertainment and recreation",Scotland,2023 Q2,quarter,5,0
+R,"Arts, entertainment and recreation",Scotland,2023 Q3,quarter,8,0
+R,"Arts, entertainment and recreation",Scotland,2023 Q4,quarter,9,0
+R,"Arts, entertainment and recreation",Scotland,2024 Q1,quarter,5,0
+R,"Arts, entertainment and recreation",Scotland,2024 Q2,quarter,8,0
+R,"Arts, entertainment and recreation",Scotland,2024 Q3,quarter,7,0
+R,"Arts, entertainment and recreation",Scotland,2024 Q4,quarter,6,0
+R,"Arts, entertainment and recreation",Scotland,2025 Q1,quarter,5,0
+R,"Arts, entertainment and recreation",Scotland,2025 Q2,quarter,5,0
+R,"Arts, entertainment and recreation",Scotland,2025 Q3,quarter,9,0
+R,"Arts, entertainment and recreation",Scotland,2025 Q4,quarter,3,0
+R,"Arts, entertainment and recreation",Scotland,2026 Q1,quarter,6,0
+R,"Arts, entertainment and recreation",Scotland,2026 Q2,quarter,12,0
+S,Other service activities,England & Wales,2016,annual,552,0
+S,Other service activities,England & Wales,2017,annual,558,0
+S,Other service activities,England & Wales,2018,annual,680,0
+S,Other service activities,England & Wales,2019,annual,763,0
+S,Other service activities,England & Wales,2020,annual,604,1
+S,Other service activities,England & Wales,2021,annual,733,1
+S,Other service activities,England & Wales,2022,annual,1262,0
+S,Other service activities,England & Wales,2023 Q1,quarter,351,0
+S,Other service activities,England & Wales,2023 Q2,quarter,345,0
+S,Other service activities,England & Wales,2023 Q3,quarter,299,0
+S,Other service activities,England & Wales,2023 Q4,quarter,354,0
+S,Other service activities,England & Wales,2024 Q1,quarter,260,0
+S,Other service activities,England & Wales,2024 Q2,quarter,321,0
+S,Other service activities,England & Wales,2024 Q3,quarter,308,0
+S,Other service activities,England & Wales,2024 Q4,quarter,245,0
+S,Other service activities,England & Wales,2025 Q1,quarter,256,0
+S,Other service activities,England & Wales,2025 Q2,quarter,299,0
+S,Other service activities,England & Wales,2025 Q3,quarter,276,0
+S,Other service activities,England & Wales,2025 Q4,quarter,228,0
+S,Other service activities,England & Wales,2026 Q1,quarter,211,0
+S,Other service activities,England & Wales,2026 Q2,quarter,249,0
+S,Other service activities,Great Britain,2016,annual,592,0
+S,Other service activities,Great Britain,2017,annual,592,0
+S,Other service activities,Great Britain,2018,annual,724,0
+S,Other service activities,Great Britain,2019,annual,811,0
+S,Other service activities,Great Britain,2020,annual,637,1
+S,Other service activities,Great Britain,2021,annual,775,1
+S,Other service activities,Great Britain,2022,annual,1333,0
+S,Other service activities,Great Britain,2023 Q1,quarter,367,0
+S,Other service activities,Great Britain,2023 Q2,quarter,363,0
+S,Other service activities,Great Britain,2023 Q3,quarter,312,0
+S,Other service activities,Great Britain,2023 Q4,quarter,375,0
+S,Other service activities,Great Britain,2024 Q1,quarter,273,0
+S,Other service activities,Great Britain,2024 Q2,quarter,340,0
+S,Other service activities,Great Britain,2024 Q3,quarter,325,0
+S,Other service activities,Great Britain,2024 Q4,quarter,260,0
+S,Other service activities,Great Britain,2025 Q1,quarter,269,0
+S,Other service activities,Great Britain,2025 Q2,quarter,309,0
+S,Other service activities,Great Britain,2025 Q3,quarter,300,0
+S,Other service activities,Great Britain,2025 Q4,quarter,240,0
+S,Other service activities,Great Britain,2026 Q1,quarter,222,0
+S,Other service activities,Great Britain,2026 Q2,quarter,265,0
+S,Other service activities,Scotland,2016,annual,40,0
+S,Other service activities,Scotland,2017,annual,34,0
+S,Other service activities,Scotland,2018,annual,44,0
+S,Other service activities,Scotland,2019,annual,48,0
+S,Other service activities,Scotland,2020,annual,33,1
+S,Other service activities,Scotland,2021,annual,42,1
+S,Other service activities,Scotland,2022,annual,71,0
+S,Other service activities,Scotland,2023 Q1,quarter,16,0
+S,Other service activities,Scotland,2023 Q2,quarter,18,0
+S,Other service activities,Scotland,2023 Q3,quarter,13,0
+S,Other service activities,Scotland,2023 Q4,quarter,21,0
+S,Other service activities,Scotland,2024 Q1,quarter,13,0
+S,Other service activities,Scotland,2024 Q2,quarter,19,0
+S,Other service activities,Scotland,2024 Q3,quarter,17,0
+S,Other service activities,Scotland,2024 Q4,quarter,15,0
+S,Other service activities,Scotland,2025 Q1,quarter,13,0
+S,Other service activities,Scotland,2025 Q2,quarter,10,0
+S,Other service activities,Scotland,2025 Q3,quarter,24,0
+S,Other service activities,Scotland,2025 Q4,quarter,12,0
+S,Other service activities,Scotland,2026 Q1,quarter,11,0
+S,Other service activities,Scotland,2026 Q2,quarter,16,0
