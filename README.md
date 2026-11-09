@@ -40,6 +40,13 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 | The threshold is a care decision, the in-class build | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session5/Session5_Medical_Threshold.ipynb) |
 | The fairness audit, your turn | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session5/Session5_Medical_FairnessAudit.ipynb) |
 
+## Session 6, Clustering I: distance and grouping
+
+| Notebook | Open |
+|---|---|
+| In-class demo: k-means, cosine, and the penguin trust check | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session6/Session6_Demo.ipynb) |
+| Your turn: cluster the days (real bike-share data) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session6/Session6_Cluster_the_Days.ipynb) |
+
 ## Session 7, Clustering II: segmentation and personas
 
 | Notebook | Open |
@@ -65,6 +72,12 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 The notebooks load the data by themselves. To give a dataset to Claude, download it and upload it to
 your chat (on each file's page, use the download button at the top right):
 
+**Want to just look at a file, with colour-coded columns, before downloading it?** Open its link
+below, then in the address bar change `github.com` to `github.dev` and press enter. That opens the
+file in GitHub's free online editor (the same editor as VS Code, running in your browser). The first
+time, install the **Rainbow CSV** extension from the Extensions panel on the left; after that, every
+CSV file you open in the repo this way gets each column shown in its own colour.
+
 - [bike_day.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/bike_day.csv), bike sharing, 731 days
 - [advertising.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/advertising.csv), Camac Drinks advertising and sales, 200 towns
 - [armands_pizza.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session2/data/armands_pizza.csv), Armand's Pizza, 10 restaurants
@@ -73,6 +86,10 @@ your chat (on each file's page, use the download button at the top right):
 - [german_credit.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session4/data/german_credit.csv), 1,000 loan applicants, good or bad credit risk
 - [bike_rentals_tutorial1.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/data/bike_rentals_tutorial1.csv), bike rentals vs temperature (°C), 731 days
 - [covid_cdc.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session5/data/covid_cdc.csv), COVID-19 case records, age, sex, race and hospitalisation
+- [netflix_viewers_toy.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session6/data/netflix_viewers_toy.csv), 30 viewers, the k-means toy
+- [netflix_shows_small.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session6/data/netflix_shows_small.csv), shows by genre, the cosine demo
+- [palmer_penguins.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session6/data/palmer_penguins.csv), 344 Antarctic penguins, the clustering trust check
+- [bike_days.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session6/data/bike_days.csv), 731 days of bike-share demand, the hands-on
 - [netflix_viewers_full.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session7/data/netflix_viewers_full.csv), ~600 viewers, viewing behaviour and profiling attributes
 - [bank_customers.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session7/data/bank_customers.csv), 45,211 bank marketing customers
 
@@ -108,6 +125,17 @@ your chat (on each file's page, use the download button at the top right):
 - `session5/data/covid_cdc.csv`: a teaching reconstruction of the US CDC COVID-19 case-surveillance
   data, built to reproduce the real relationships between age, sex, race and hospitalisation in the
   CDC records. Not real individual patients: the patterns are faithful, the rows are synthetic.
+- `session6/data/netflix_viewers_toy.csv`: a synthetic teaching dataset, generated for this course. 30
+  viewers, two features (hours watched per week, fraction series vs films), built so raw and
+  standardised k-means disagree, the lesson on why to scale.
+- `session6/data/netflix_shows_small.csv`: a synthetic teaching dataset, generated for this course.
+  A small set of shows by genre, for the cosine-similarity demo.
+- `session6/data/palmer_penguins.csv`: Palmer Station Antarctica LTER penguins, Gorman, K.B.,
+  Williams, T.D. & Fraser, W.R. (2014), *Ecological sexual dimorphism and environmental variability
+  within a community of Antarctic penguins*, PLoS ONE 9(3):e90081. Packaged by Horst, Presmanes Hill
+  & Gorman (2022). 344 penguins, three real species, used as a clustering trust check.
+- `session6/data/bike_days.csv`: the same Capital Bikeshare daily data as `session1/data/bike_day.csv`
+  (see its citation above), used for the hands-on day-type clustering exercise.
 - `session7/data/netflix_viewers_full.csv`: a synthetic teaching dataset, generated for this course.
   ~600 viewers across five designed segments, six behavioural features to cluster on plus two
   profiling-only attributes (age, number of profiles) held back from the clustering itself.
