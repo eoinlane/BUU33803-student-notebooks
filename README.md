@@ -75,11 +75,6 @@ your chat (on each file's page, use the download button at the top right):
 **Want to just look at a file before downloading it?** Click its link below: GitHub shows it as a
 clean, searchable table automatically, no extra step.
 
-**Want each column colour-coded instead, like a code editor?** You'll need a (free) GitHub account.
-Open the file's link, then change `github.com` to `github.dev` in the address bar and sign in when
-asked. The first time, install the **Rainbow CSV** extension when prompted (trust the publisher and
-the workspace); after that, every CSV you open there gets each column its own colour.
-
 - [bike_day.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/bike_day.csv), bike sharing, 731 days
 - [advertising.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/advertising.csv), Camac Drinks advertising and sales, 200 towns
 - [armands_pizza.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session2/data/armands_pizza.csv), Armand's Pizza, 10 restaurants
