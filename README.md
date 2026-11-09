@@ -40,6 +40,13 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 | The threshold is a care decision, the in-class build | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session5/Session5_Medical_Threshold.ipynb) |
 | The fairness audit, your turn | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session5/Session5_Medical_FairnessAudit.ipynb) |
 
+## Session 7, Clustering II: segmentation and personas
+
+| Notebook | Open |
+|---|---|
+| Your turn: name the Netflix viewer segments | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session7/Session7_Personas.ipynb) |
+| The bank marketing demo (your group project's data) | [Open in Colab](https://colab.research.google.com/github/eoinlane/BUU33803-student-notebooks/blob/main/session7/Session7_Bank_Demo.ipynb) |
+
 ## Tutorial 1, practice: a second regression, a second dataset
 
 | Notebook | Open |
@@ -66,6 +73,8 @@ your chat (on each file's page, use the download button at the top right):
 - [german_credit.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session4/data/german_credit.csv), 1,000 loan applicants, good or bad credit risk
 - [bike_rentals_tutorial1.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/tutorial1/data/bike_rentals_tutorial1.csv), bike rentals vs temperature (°C), 731 days
 - [covid_cdc.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session5/data/covid_cdc.csv), COVID-19 case records, age, sex, race and hospitalisation
+- [netflix_viewers_full.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session7/data/netflix_viewers_full.csv), ~600 viewers, viewing behaviour and profiling attributes
+- [bank_customers.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session7/data/bank_customers.csv), 45,211 bank marketing customers
 
 ## Data sources
 
@@ -99,6 +108,13 @@ your chat (on each file's page, use the download button at the top right):
 - `session5/data/covid_cdc.csv`: a teaching reconstruction of the US CDC COVID-19 case-surveillance
   data, built to reproduce the real relationships between age, sex, race and hospitalisation in the
   CDC records. Not real individual patients: the patterns are faithful, the rows are synthetic.
+- `session7/data/netflix_viewers_full.csv`: a synthetic teaching dataset, generated for this course.
+  ~600 viewers across five designed segments, six behavioural features to cluster on plus two
+  profiling-only attributes (age, number of profiles) held back from the clustering itself.
+- `session7/data/bank_customers.csv`: Bank Marketing Data Set, Moro, S., Cortez, P., & Rita, P.
+  (2014), "A Data-Driven Approach to Predict the Success of Bank Telemarketing", *Decision Support
+  Systems*. UCI Machine Learning Repository: 45,211 customers from a Portuguese bank's term-deposit
+  campaign.
 - `brexit/data/countries_quarterly_gdp.csv`: real GDP (volume index), OECD Quarterly National Accounts.
 - `brexit/data/countries_annual.csv`: GDP, trade, investment, inflation, unemployment and CO2 per head,
   World Bank, World Development Indicators.
