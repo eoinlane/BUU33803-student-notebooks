@@ -72,11 +72,8 @@ In Colab, use **File → Save a copy in Drive** before you start, so your work i
 The notebooks load the data by themselves. To give a dataset to Claude, download it and upload it to
 your chat (on each file's page, use the download button at the top right):
 
-**Want to just look at a file, with colour-coded columns, before downloading it?** Open its link
-below, then in the address bar change `github.com` to `github.dev` and press enter. That opens the
-file in GitHub's free online editor (the same editor as VS Code, running in your browser). The first
-time, install the **Rainbow CSV** extension from the Extensions panel on the left; after that, every
-CSV file you open in the repo this way gets each column shown in its own colour.
+**Want to just look at a file before downloading it?** Click its link below: GitHub shows it as a
+clean, searchable table automatically, no extra step.
 
 - [bike_day.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/bike_day.csv), bike sharing, 731 days
 - [advertising.csv](https://github.com/eoinlane/BUU33803-student-notebooks/blob/main/session1/data/advertising.csv), Camac Drinks advertising and sales, 200 towns
